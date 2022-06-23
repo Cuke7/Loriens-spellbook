@@ -121,7 +121,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .v-data-table {
   background-color: #ffffff00;
 }
