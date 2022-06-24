@@ -1,6 +1,11 @@
 <template>
   <v-row justify="center" align="center">
     <v-col cols="12" sm="8">
+      <!-- <v-switch
+        v-model="switchFrench"
+        class="mt-12"
+        label="Traduction des sorts en français"
+      ></v-switch> -->
       <h1 class="text-center primary--text my-12 text-h1">
         Lorien's spellbook
       </h1>
@@ -83,6 +88,7 @@
         <!-- eslint-disable -->
         <template v-slot:item.name="{ item }">
           <Nuxt-Link :to="item._id">
+            <!-- {{ switchFrench ? item.nameFR : item.name }} -->
             {{ item.name }}
           </Nuxt-Link>
         </template>
@@ -94,6 +100,7 @@
 
 <script>
 import spells from "~/static/data/spells.json";
+import spellDictionary from "~/static/data/spellDictionary.json";
 
 export default {
   data: () => ({
@@ -104,39 +111,74 @@ export default {
     traditions: ["arcane", "divine", "occult", "primal", "other"],
     selectedTradition: "arcane",
     headers: [
-      { text: "Spell name", value: "name", align: "start" },
-      { text: "Level", value: "data.level.value", align: "start" },
-      { text: "Cantrip", value: "data.cantrip", align: "start" },
-      { text: "School", value: "data.school.value", align: "start" },
-      { text: "Category", value: "data.category.value", align: "start" },
-      { text: "Source", value: "data.source.value", align: "start" },
+      {
+        text: "Spell name",
+        value: "name",
+        align: "start",
+      },
+      {
+        text: "Level",
+        value: "data.level.value",
+        align: "start",
+        filterable: false,
+      },
+      {
+        text: "Cantrip",
+        value: "data.cantrip",
+        align: "start",
+        filterable: false,
+      },
+      {
+        text: "School",
+        value: "data.school.value",
+        align: "start",
+        filterable: false,
+      },
+      {
+        text: "Category",
+        value: "data.category.value",
+        align: "start",
+        filterable: false,
+      },
+      {
+        text: "Source",
+        value: "data.source.value",
+        align: "start",
+        filterable: false,
+      },
     ],
   }),
 
   computed: {
-    spells2() {
-      let spellsArray = Object.values(spells);
-
-      for (const spell of spellsArray) {
+    // switchFrench: {
+    //   get() {
+    //     return this.$store.state.frenchCompat;
+    //   },
+    //   set(val) {
+    //     this.$store.commit("UPDATE_FRENCH_COMPAT", val);
+    //   },
+    // },
+    spellList() {
+      let spellList = Object.values(spells);
+      for (const spell of spellList) {
+        // spell.nameFR = this.translate(spell.name);
         if (spell.data.traits.value.includes("cantrip")) {
           spell.data.cantrip = "Cantrip";
         } else {
           spell.data.cantrip = "";
         }
       }
-
-      return spellsArray;
+      return spellList;
     },
-
     filteredSpells() {
-      let allSpells = Object.values(this.spells2);
+      let filteredSpells = Object.values(this.spellList);
       if (this.selectedTradition != "other") {
-        allSpells = allSpells.filter((spell) =>
+        filteredSpells = filteredSpells.filter((spell) =>
           spell.data.traditions.value.includes(this.selectedTradition)
         );
-        return allSpells;
+        return filteredSpells;
       }
-      return allSpells.filter(
+      return filteredSpells.filter(
         (spell) => spell.data.traditions.value.length == 0
       );
     },
@@ -147,6 +189,16 @@ export default {
       this.$store.commit("STORE_SPELL", this.selectedSpells);
       this.$router.push("/spellbook");
     },
+    // translate(text) {
+    //   let item = spellDictionary.find(
+    //     (item) => item.nameEN.toLowerCase() === text.toLowerCase()
+    //   );
+    //   if (item) {
+    //     return item.nameFR;
+    //   } else {
+    //     return text;
+    //   }
+    // },
   },
 };
 </script>

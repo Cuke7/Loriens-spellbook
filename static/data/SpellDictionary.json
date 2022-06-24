@@ -1,0 +1,4390 @@
+[
+  {
+    "nameFR": "Absorption d'énergie",
+    "nameEN": "Energy Absorption",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Absorption élémentaire",
+    "nameEN": "Elemental Absorption",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Accès à la connaissance",
+    "nameEN": "Access Lore",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Accélération magnétique",
+    "nameEN": "Magnetic Acceleration",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Achever une lignée",
+    "nameEN": "Terminate Bloodline",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Adaptation rapide",
+    "nameEN": "Rapid Adaptation",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Adoration captivante",
+    "nameEN": "Captivating Adoration",
+    "category": "Sorts"
+  },
+  { "nameFR": "Affaiblissement", "nameEN": "Enervation", "category": "Sorts" },
+  {
+    "nameFR": "Afflux du lien vital",
+    "nameEN": "Lifelink Surge",
+    "category": "Sorts"
+  },
+  { "nameFR": "Agitation", "nameEN": "Agitate", "category": "Sorts" },
+  { "nameFR": "Agrandissement", "nameEN": "Enlarge", "category": "Sorts" },
+  {
+    "nameFR": "Agression protectrice",
+    "nameEN": "Warding Aggression",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Aiguille de la vengeance",
+    "nameEN": "Needle of Vengeance",
+    "category": "Sorts"
+  },
+  { "nameFR": "Ailes d'ange", "nameEN": "Angelic Wings", "category": "Sorts" },
+  {
+    "nameFR": "Ailes de dragon",
+    "nameEN": "Dragon Wings",
+    "category": "Sorts"
+  },
+  { "nameFR": "Alarme", "nameEN": "Alarm", "category": "Sorts" },
+  {
+    "nameFR": "Alignement indétectable",
+    "nameEN": "Undetectable Alignment",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Alimentation maléfique",
+    "nameEN": "Malignant Sustenance",
+    "category": "Sorts"
+  },
+  { "nameFR": "Allié planaire", "nameEN": "Planar Ally", "category": "Sorts" },
+  {
+    "nameFR": "Alliés animaux",
+    "nameEN": "Animal Allies",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Allumer un feu d'artifice",
+    "nameEN": "Ignite Fireworks",
+    "category": "Sorts"
+  },
+  { "nameFR": "Allégro", "nameEN": "Allegro", "category": "Sorts" },
+  {
+    "nameFR": "Altérer la réalité",
+    "nameEN": "Alter Reality",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Ambiance terrifiante",
+    "nameEN": "Dread Ambience",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Ambition aveugle",
+    "nameEN": "Blind Ambition",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Ambition insipide",
+    "nameEN": "Dull Ambition",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Amulette de la nymphe",
+    "nameEN": "Nymph's Token",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Amélioration des victuailles",
+    "nameEN": "Enhance Victuals",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Amélioration physique",
+    "nameEN": "Physical Boost",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Anamnèse spirituelle",
+    "nameEN": "Spiritual Anamnesis",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Anathème et représailles",
+    "nameEN": "Anathematic Reprisal",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Ancre dimensionnelle",
+    "nameEN": "Dimensional Anchor",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Animation d'objet",
+    "nameEN": "Animate Object",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Animation de corde",
+    "nameEN": "Animate Rope",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Animation des morts",
+    "nameEN": "Animate Dead",
+    "category": "Sorts"
+  },
+  { "nameFR": "Annuler", "nameEN": "Nullify", "category": "Sorts" },
+  {
+    "nameFR": "Anticipation du danger",
+    "nameEN": "Anticipate Peril",
+    "category": "Sorts"
+  },
+  { "nameFR": "Antidétection", "nameEN": "Nondetection", "category": "Sorts" },
+  {
+    "nameFR": "Apaisement des émotions",
+    "nameEN": "Calm Emotions",
+    "category": "Sorts"
+  },
+  { "nameFR": "Apaiser", "nameEN": "Soothe", "category": "Sorts" },
+  {
+    "nameFR": "Appel aux armes",
+    "nameEN": "Call to Arms",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Appel d'un esprit",
+    "nameEN": "Call Spirit",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Appel de la mort",
+    "nameEN": "Death's Call",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Appel de la tombe",
+    "nameEN": "Call of the Grave",
+    "category": "Sorts"
+  },
+  { "nameFR": "Appel du marais", "nameEN": "Swampcall", "category": "Sorts" },
+  {
+    "nameFR": "Appel du rêveur",
+    "nameEN": "Dreamer's Call",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Appel du sang",
+    "nameEN": "Call The Blood",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Appel primordial",
+    "nameEN": "Primal Call",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Applaudissements rugissants",
+    "nameEN": "Roaring Applause",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Apport efficace",
+    "nameEN": "Efficient Apport",
+    "category": "Sorts"
+  },
+  { "nameFR": "Apprivoiser", "nameEN": "Tame", "category": "Sorts" },
+  { "nameFR": "Approximer", "nameEN": "Approximate", "category": "Sorts" },
+  {
+    "nameFR": "Appât à vermine",
+    "nameEN": "Verminous Lure",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Arbre protecteur",
+    "nameEN": "Protector Tree",
+    "category": "Sorts"
+  },
+  { "nameFR": "Arc électrique", "nameEN": "Electric Arc", "category": "Sorts" },
+  { "nameFR": "Aria fatale", "nameEN": "Fatal Aria", "category": "Sorts" },
+  {
+    "nameFR": "Armaggedon divin",
+    "nameEN": "Divine Armageddon",
+    "category": "Sorts"
+  },
+  { "nameFR": "Arme améliorée", "nameEN": "Weapon Surge", "category": "Sorts" },
+  {
+    "nameFR": "Arme du jugement",
+    "nameEN": "Weapon of Judgement",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Arme fantomatique",
+    "nameEN": "Ghostly Weapon",
+    "category": "Sorts"
+  },
+  { "nameFR": "Arme magique", "nameEN": "Magic Weapon", "category": "Sorts" },
+  { "nameFR": "Arme pesante", "nameEN": "Gravity Weapon", "category": "Sorts" },
+  {
+    "nameFR": "Arme spirituelle",
+    "nameEN": "Spiritual Weapon",
+    "category": "Sorts"
+  },
+  { "nameFR": "Arme à écho", "nameEN": "Echoing Weapon", "category": "Sorts" },
+  {
+    "nameFR": "Armes perturbatrices",
+    "nameEN": "Disrupting Weapons",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Armure chromatique",
+    "nameEN": "Chromatic Armor",
+    "category": "Sorts"
+  },
+  { "nameFR": "Armure d'os", "nameEN": "Armor of Bones", "category": "Sorts" },
+  { "nameFR": "Armure du mage", "nameEN": "Mage Armor", "category": "Sorts" },
+  {
+    "nameFR": "Armure instantanée",
+    "nameEN": "Instant Armor",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Armure prismatique",
+    "nameEN": "Prismatic Armor",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Armée de l'ombre",
+    "nameEN": "Shadow Army",
+    "category": "Sorts"
+  },
+  { "nameFR": "Arrêt du temps", "nameEN": "Time Stop", "category": "Sorts" },
+  {
+    "nameFR": "Aspect du Guerrier Magique",
+    "nameEN": "Magic Warrior Aspect",
+    "category": "Sorts"
+  },
+  { "nameFR": "Aspersion d'os", "nameEN": "Bone Spray", "category": "Sorts" },
+  {
+    "nameFR": "Aspersion d'étoiles",
+    "nameEN": "Spray of Stars",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Aspersion de froid",
+    "nameEN": "Chilling Spray",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Aspersion d’acide",
+    "nameEN": "Acid Splash",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Assassin imaginaire",
+    "nameEN": "Phantasmal Killer",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Assaut animé",
+    "nameEN": "Animated Assault",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Assaut dimensionnel",
+    "nameEN": "Dimensional Assault",
+    "category": "Sorts"
+  },
+  { "nameFR": "Assaut hâtif", "nameEN": "Hasted Assault", "category": "Sorts" },
+  { "nameFR": "Assistance divine", "nameEN": "Guidance", "category": "Sorts" },
+  {
+    "nameFR": "Assombrir le regard",
+    "nameEN": "Darkened Eyes",
+    "category": "Sorts"
+  },
+  { "nameFR": "Astérisme", "nameEN": "Asterism", "category": "Sorts" },
+  {
+    "nameFR": "Athlétisme poussé",
+    "nameEN": "Athletic Rush",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Attaque en meute",
+    "nameEN": "Pack Attack",
+    "category": "Sorts"
+  },
+  { "nameFR": "Attirer la colère", "nameEN": "Draw Ire", "category": "Sorts" },
+  {
+    "nameFR": "Attirer la foudre",
+    "nameEN": "Draw the Lightning",
+    "category": "Sorts"
+  },
+  { "nameFR": "Attirer le rêve", "nameEN": "Lure Dream", "category": "Sorts" },
+  {
+    "nameFR": "Attraction magnétique",
+    "nameEN": "Magnetic Attraction",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Attraper votre nom",
+    "nameEN": "Catch Your Name",
+    "category": "Sorts"
+  },
+  { "nameFR": "Augure", "nameEN": "Augury", "category": "Sorts" },
+  {
+    "nameFR": "Aura destructrice",
+    "nameEN": "Destructive Aura",
+    "category": "Sorts"
+  },
+  { "nameFR": "Aura divine", "nameEN": "Divine Aura", "category": "Sorts" },
+  { "nameFR": "Aura effroyable", "nameEN": "Dread Aura", "category": "Sorts" },
+  {
+    "nameFR": "Aura incendiaire",
+    "nameEN": "Incendiary Aura",
+    "category": "Sorts"
+  },
+  { "nameFR": "Aura magique", "nameEN": "Magic Aura", "category": "Sorts" },
+  {
+    "nameFR": "Aura quelconque",
+    "nameEN": "Aura of the Unremarkable",
+    "category": "Sorts"
+  },
+  { "nameFR": "Auto-adaptation", "nameEN": "Adapt Self", "category": "Sorts" },
+  {
+    "nameFR": "Avalanche d'art",
+    "nameEN": "Splash of Art",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Avancée de la vague qui ne se brise pas",
+    "nameEN": "Unbreaking Wave Advance",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Avantage du compétiteur",
+    "nameEN": "Competitive Edge",
+    "category": "Sorts"
+  },
+  { "nameFR": "Avatar", "nameEN": "Avatar", "category": "Sorts" },
+  { "nameFR": "Bagou", "nameEN": "Glibness", "category": "Sorts" },
+  { "nameFR": "Baie nourricière", "nameEN": "Goodberry", "category": "Sorts" },
+  {
+    "nameFR": "Baignade de sang",
+    "nameEN": "Bathe in Blood",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Balancer dans le temps",
+    "nameEN": "Cast into Time",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Ballade apaisante",
+    "nameEN": "Soothing Ballad",
+    "category": "Sorts"
+  },
+  { "nameFR": "Bannissement", "nameEN": "Banishment", "category": "Sorts" },
+  {
+    "nameFR": "Barrage draconique",
+    "nameEN": "Draconic Barrage",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Barrière de flammes",
+    "nameEN": "Flame Barrier",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Barrière de lames",
+    "nameEN": "Blade Barrier",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Barrière rebondissante",
+    "nameEN": "Rebounding Barrier",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Beauté aveuglante",
+    "nameEN": "Blinding Beauty",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Berger des âmes",
+    "nameEN": "Shepherd of Souls",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Bibliothèque de poche",
+    "nameEN": "Pocket Library",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Blizzard personnel",
+    "nameEN": "Personal Blizzard",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Boite aux lettres magiques",
+    "nameEN": "Magic Mailbox",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Booster l'eidolon",
+    "nameEN": "Boost Eidolon",
+    "category": "Sorts"
+  },
+  { "nameFR": "Bouc émissaire", "nameEN": "Shift Blame", "category": "Sorts" },
+  { "nameFR": "Bouche magique", "nameEN": "Magic Mouth", "category": "Sorts" },
+  { "nameFR": "Bouclier", "nameEN": "Shield", "category": "Sorts" },
+  { "nameFR": "Bouclier de feu", "nameEN": "Fire Shield", "category": "Sorts" },
+  {
+    "nameFR": "Bouclier prismatique",
+    "nameEN": "Prismatic Shield",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Bouffée de marais",
+    "nameEN": "Gasping Marsh",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Bouffée de poison",
+    "nameEN": "Puff of Poison",
+    "category": "Sorts"
+  },
+  { "nameFR": "Boule de feu", "nameEN": "Fireball", "category": "Sorts" },
+  { "nameFR": "Boule de neige", "nameEN": "Snowball", "category": "Sorts" },
+  {
+    "nameFR": "Bourbier onirique",
+    "nameEN": "Oneiric Mire",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Bourgeons apaisants",
+    "nameEN": "Soothing Blossoms",
+    "category": "Sorts"
+  },
+  { "nameFR": "Bourrasque", "nameEN": "Gust of Wind", "category": "Sorts" },
+  {
+    "nameFR": "Bourrasque agressive",
+    "nameEN": "Pushing Gust",
+    "category": "Sorts"
+  },
+  { "nameFR": "Boyaux de fer", "nameEN": "Iron Gut", "category": "Sorts" },
+  { "nameFR": "Brouillard dense", "nameEN": "Solid Fog", "category": "Sorts" },
+  {
+    "nameFR": "Brouillard incendiaire",
+    "nameEN": "Incendiary Fog",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Brume apaisante",
+    "nameEN": "Soothing Mist",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Brume de dissimulation",
+    "nameEN": "Obscuring Mist",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Brume sanguine",
+    "nameEN": "Sanguine Mist",
+    "category": "Sorts"
+  },
+  { "nameFR": "Bulle d'air", "nameEN": "Air Bubble", "category": "Sorts" },
+  {
+    "nameFR": "Bâton tournoyant",
+    "nameEN": "Spinning Staff",
+    "category": "Sorts"
+  },
+  { "nameFR": "Bénédiction", "nameEN": "Bless", "category": "Sorts" },
+  {
+    "nameFR": "Bénédiction de la Mère",
+    "nameEN": "Mother's Blessing",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Bénédiction de la mort-vivance",
+    "nameEN": "Undeath's Blessing",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Bénédiction du défi",
+    "nameEN": "Blessing of Defiance",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Bénédiction du guérisseur",
+    "nameEN": "Healer's Blessing",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cabane douillette",
+    "nameEN": "Cozy Cabin",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cachette du familier",
+    "nameEN": "Pet Cache",
+    "category": "Sorts"
+  },
+  { "nameFR": "Cacophonie", "nameEN": "Sound Burst", "category": "Sorts" },
+  {
+    "nameFR": "Cadavre loquace",
+    "nameEN": "Talking Corpse",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cadeau attentionné",
+    "nameEN": "Thoughtful Gift",
+    "category": "Sorts"
+  },
+  { "nameFR": "Cage de force", "nameEN": "Force Cage", "category": "Sorts" },
+  {
+    "nameFR": "Calamité imaginaire",
+    "nameEN": "Phantasmal Calamity",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cantique du chagrin éternel",
+    "nameEN": "Canticle of Everlasting Grief",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cape colorée",
+    "nameEN": "Cloak of Colors",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cape d'invisibilité",
+    "nameEN": "Invisibility Cloak",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cape de lumière",
+    "nameEN": "Cloak of Light",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cape de tromperie",
+    "nameEN": "Deceiver's Cloak",
+    "category": "Sorts"
+  },
+  { "nameFR": "Cape-miroir", "nameEN": "Mirecloak", "category": "Sorts" },
+  {
+    "nameFR": "Carrosse mystique",
+    "nameEN": "Mystic Carriage",
+    "category": "Sorts"
+  },
+  { "nameFR": "Cascade bénite", "nameEN": "Holy Cascade", "category": "Sorts" },
+  {
+    "nameFR": "Cascade pulvérisante",
+    "nameEN": "Pulverizing Cascade",
+    "category": "Sorts"
+  },
+  { "nameFR": "Cataclysme", "nameEN": "Cataclysm", "category": "Sorts" },
+  { "nameFR": "Cauchemar", "nameEN": "Nightmare", "category": "Sorts" },
+  {
+    "nameFR": "Cauchemar partagé",
+    "nameEN": "Shared Nightmare",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cauchemar éveillé",
+    "nameEN": "Waking Nightmare",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cercle de protection",
+    "nameEN": "Circle of Protection",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cercle de téléportation",
+    "nameEN": "Teleportation Circle",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Chagrin accablant",
+    "nameEN": "Overflowing Sorrow",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Chair en pierre",
+    "nameEN": "Flesh to Stone",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Champ d'antimagie",
+    "nameEN": "Antimagic Field",
+    "category": "Sorts"
+  },
+  { "nameFR": "Champ de vie", "nameEN": "Field of Life", "category": "Sorts" },
+  { "nameFR": "Champ inactif", "nameEN": "Fallow Field", "category": "Sorts" },
+  {
+    "nameFR": "Champ protecteur",
+    "nameEN": "Protective Ward",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Champ rayonnant",
+    "nameEN": "Radiant Field",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Chance du chasseur",
+    "nameEN": "Hunter's Luck",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Changement de forme",
+    "nameEN": "Shapechange",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Changement de plan",
+    "nameEN": "Plane Shift",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Chanson de force",
+    "nameEN": "Song of Strength",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Chanson de marche",
+    "nameEN": "Song of Marching",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Chanson des morts au combat",
+    "nameEN": "Song of the Fallen",
+    "category": "Sorts"
+  },
+  { "nameFR": "Chant de la griffe", "nameEN": "Clawsong", "category": "Sorts" },
+  { "nameFR": "Chant funeste", "nameEN": "Dirge of Doom", "category": "Sorts" },
+  { "nameFR": "Chant spirituel", "nameEN": "Spirit Song", "category": "Sorts" },
+  {
+    "nameFR": "Chant énigmatique",
+    "nameEN": "Unfathomable Song",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Charge clignotante",
+    "nameEN": "Blink Charge",
+    "category": "Sorts"
+  },
+  { "nameFR": "Charge de fourmi", "nameEN": "Ant Haul", "category": "Sorts" },
+  { "nameFR": "Charme", "nameEN": "Charm", "category": "Sorts" },
+  {
+    "nameFR": "Chœur concordant",
+    "nameEN": "Concordant Choir",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cible verrouillée",
+    "nameEN": "True Target",
+    "category": "Sorts"
+  },
+  { "nameFR": "Ciel parlant", "nameEN": "Speaking Sky", "category": "Sorts" },
+  { "nameFR": "Clairaudience", "nameEN": "Clairaudience", "category": "Sorts" },
+  { "nameFR": "Clairvoyance", "nameEN": "Clairvoyance", "category": "Sorts" },
+  { "nameFR": "Clignotement", "nameEN": "Blink", "category": "Sorts" },
+  { "nameFR": "Clone", "nameEN": "Clone", "category": "Sorts" },
+  { "nameFR": "Cloué à terre", "nameEN": "Earthbind", "category": "Sorts" },
+  { "nameFR": "Coffre secret", "nameEN": "Secret Chest", "category": "Sorts" },
+  { "nameFR": "Colonne de feu", "nameEN": "Flame Strike", "category": "Sorts" },
+  {
+    "nameFR": "Colère abyssale",
+    "nameEN": "Abyssal Wrath",
+    "category": "Sorts"
+  },
+  { "nameFR": "Colère divine", "nameEN": "Divine Wrath", "category": "Sorts" },
+  { "nameFR": "Combustion", "nameEN": "Combustion", "category": "Sorts" },
+  {
+    "nameFR": "Communication avec les animaux",
+    "nameEN": "Speak with Animals",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Communication avec les plantes",
+    "nameEN": "Speak with Plants",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Communication à distance",
+    "nameEN": "Sending",
+    "category": "Sorts"
+  },
+  { "nameFR": "Communion", "nameEN": "Commune", "category": "Sorts" },
+  {
+    "nameFR": "Communion avec la nature",
+    "nameEN": "Commune with Nature",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Compagnon agrandi",
+    "nameEN": "Enlarge Companion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Compagnon alpha",
+    "nameEN": "Apex Companion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Compagnon cloné",
+    "nameEN": "Clone Companion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Compagnon juvénile",
+    "nameEN": "Juvenile Companion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Compagnon venimeux",
+    "nameEN": "Envenom Companion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Composition prolongée",
+    "nameEN": "Lingering Composition",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Compréhension des langues",
+    "nameEN": "Comprehend Language",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Confluence élémentaire",
+    "nameEN": "Elemental Confluence",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Confrontation finale",
+    "nameEN": "Fated Confrontation",
+    "category": "Sorts"
+  },
+  { "nameFR": "Confusion", "nameEN": "Confusion", "category": "Sorts" },
+  {
+    "nameFR": "Conférer l'empathie",
+    "nameEN": "Impart Empathy",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Connaissance partagée",
+    "nameEN": "Share Lore",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Connaître son ennemi",
+    "nameEN": "Know the Enemy",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Connexion vitale",
+    "nameEN": "Life Connection",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Conseil onirique",
+    "nameEN": "Dream Council",
+    "category": "Sorts"
+  },
+  { "nameFR": "Consécration", "nameEN": "Consecrate", "category": "Sorts" },
+  {
+    "nameFR": "Conséquence retardée",
+    "nameEN": "Delay Consequence",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Contact charmeur",
+    "nameEN": "Charming Touch",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Contact de la non-mort",
+    "nameEN": "Touch of Undeath",
+    "category": "Sorts"
+  },
+  { "nameFR": "Contact glacial", "nameEN": "Chill Touch", "category": "Sorts" },
+  {
+    "nameFR": "Contact lunaire",
+    "nameEN": "Touch of the Moon",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Contact vampirique",
+    "nameEN": "Vampiric Touch",
+    "category": "Sorts"
+  },
+  { "nameFR": "Contingence", "nameEN": "Contingency", "category": "Sorts" },
+  {
+    "nameFR": "Contrat planaire",
+    "nameEN": "Planar Binding",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Contre-mesure arcanique",
+    "nameEN": "Arcane Countermeasure",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Contre-représentation",
+    "nameEN": "Counter Performance",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Contremesure en cascade",
+    "nameEN": "Cascade Countermeasure",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Contrôle de l'eau",
+    "nameEN": "Control Water",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Contrôle du climat",
+    "nameEN": "Control Weather",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Contrôle du sable",
+    "nameEN": "Control Sand",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Conversation distrayante",
+    "nameEN": "Distracting Chatter",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Conviction zélée",
+    "nameEN": "Zealous Conviction",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocation améliorée",
+    "nameEN": "Augment Summoning",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocation d'animal",
+    "nameEN": "Summon Animal",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocation d'entité",
+    "nameEN": "Summon Entity",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocation d'instrument",
+    "nameEN": "Summon Instrument",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocation d'élémentaire",
+    "nameEN": "Summon Elemental",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocation de créature artificielle",
+    "nameEN": "Summon Construct",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocation de céleste",
+    "nameEN": "Summon Celestial",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocation de dragon",
+    "nameEN": "Summon Dragon",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocation de fiélon",
+    "nameEN": "Summon Fiend",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocation de fée",
+    "nameEN": "Summon Fey",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocation de géant",
+    "nameEN": "Summon Giant",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocation de plante ou de champignon",
+    "nameEN": "Summon Plant or Fungus",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Convocations primordiales",
+    "nameEN": "Primal Summons",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Coquillage de son volé",
+    "nameEN": "Seashell of Stolen Sound",
+    "category": "Sorts"
+  },
+  { "nameFR": "Corde enchantée", "nameEN": "Rope Trick", "category": "Sorts" },
+  {
+    "nameFR": "Corps corrosif",
+    "nameEN": "Corrosive Body",
+    "category": "Sorts"
+  },
+  { "nameFR": "Corps enflammé", "nameEN": "Fiery Body", "category": "Sorts" },
+  { "nameFR": "Corriger", "nameEN": "Redact", "category": "Sorts" },
+  {
+    "nameFR": "Corruption de la nourriture et de la boisson",
+    "nameEN": "Putrefy Food and Drink",
+    "category": "Sorts"
+  },
+  { "nameFR": "Couche de givre", "nameEN": "Rime Slick", "category": "Sorts" },
+  {
+    "nameFR": "Couleurs dansantes",
+    "nameEN": "Color Spray",
+    "category": "Sorts"
+  },
+  { "nameFR": "Coup au but", "nameEN": "True Strike", "category": "Sorts" },
+  {
+    "nameFR": "Coup de pouce au destin",
+    "nameEN": "Nudge Fate",
+    "category": "Sorts"
+  },
+  { "nameFR": "Coup de vent", "nameEN": "Gale Blast", "category": "Sorts" },
+  { "nameFR": "Coup parfait", "nameEN": "Perfect Strike", "category": "Sorts" },
+  { "nameFR": "Coup spirituel", "nameEN": "Spirit Blast", "category": "Sorts" },
+  { "nameFR": "Courant ascendant", "nameEN": "Updraft", "category": "Sorts" },
+  {
+    "nameFR": "Courroux de l'eidolon",
+    "nameEN": "Eidolon's Wrath",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Courroux de la méduse",
+    "nameEN": "Medusa's Wrath",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Courroux du moine lésé",
+    "nameEN": "Wronged Monk's Wrath",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Coursier fantôme",
+    "nameEN": "Phantom Steed",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Couverture caméléon",
+    "nameEN": "Chameleon Coat",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Couverture d'invisibilité",
+    "nameEN": "Invisibility Curtain",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Couverture d'étoiles",
+    "nameEN": "Blanket Of Stars",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cri de destruction",
+    "nameEN": "Cry of Destruction",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Critique favorable",
+    "nameEN": "Favorable Review",
+    "category": "Sorts"
+  },
+  { "nameFR": "Croc de force", "nameEN": "Force Fang", "category": "Sorts" },
+  { "nameFR": "Croisade", "nameEN": "Crusade", "category": "Sorts" },
+  {
+    "nameFR": "Croissance végétale",
+    "nameEN": "Plant Growth",
+    "category": "Sorts"
+  },
+  { "nameFR": "Création", "nameEN": "Creation", "category": "Sorts" },
+  { "nameFR": "Création d'eau", "nameEN": "Create Water", "category": "Sorts" },
+  {
+    "nameFR": "Création de demi-plan",
+    "nameEN": "Create Demiplane",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Création de maille-peaux",
+    "nameEN": "Create Skinstitch",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Création de mort-vivant",
+    "nameEN": "Create Undead",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Création de nourriture",
+    "nameEN": "Create Food",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Créature illusoire",
+    "nameEN": "Illusory Creature",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Cynisme inépuisable",
+    "nameEN": "Inexhaustible Cynicism",
+    "category": "Sorts"
+  },
+  { "nameFR": "Cécité", "nameEN": "Blindness", "category": "Sorts" },
+  { "nameFR": "Cône de froid", "nameEN": "Cone of Cold", "category": "Sorts" },
+  { "nameFR": "Cœur glacial", "nameEN": "Glacial Heart", "category": "Sorts" },
+  {
+    "nameFR": "Dangereuses visions",
+    "nameEN": "Visions of Danger",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Dangers éphémères",
+    "nameEN": "Ephemeral Hazards",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Danse de ténèbre",
+    "nameEN": "Dance of Darkness",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Danse incontrôlable",
+    "nameEN": "Uncontrollable Dance",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Dard de Wyverne",
+    "nameEN": "Wyvern Sting",
+    "category": "Sorts"
+  },
+  { "nameFR": "Dard de diablotin", "nameEN": "Imp Sting", "category": "Sorts" },
+  {
+    "nameFR": "Dard du ver pourpre",
+    "nameEN": "Purple Worm Sting",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Demeure aux murs imaginaires",
+    "nameEN": "House of Imaginary Walls",
+    "category": "Sorts"
+  },
+  { "nameFR": "Dessèchement", "nameEN": "Parch", "category": "Sorts" },
+  {
+    "nameFR": "Destruction de mort-vivant",
+    "nameEN": "Disrupt Undead",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Dichotomie débilitante",
+    "nameEN": "Debilitating Dichotomy",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Diminuer la lumière",
+    "nameEN": "Dim the Light",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Discerner les secrets",
+    "nameEN": "Discern Secrets",
+    "category": "Sorts"
+  },
+  { "nameFR": "Discours captivant", "nameEN": "Enthrall", "category": "Sorts" },
+  { "nameFR": "Disjonction", "nameEN": "Disjunction", "category": "Sorts" },
+  { "nameFR": "Disparition", "nameEN": "Disappearance", "category": "Sorts" },
+  {
+    "nameFR": "Disparition dans les airs",
+    "nameEN": "Disperse into Air",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Disparition féerique",
+    "nameEN": "Fey Disappearance",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Disque flottant",
+    "nameEN": "Floating Disk",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Dissipation de la magie",
+    "nameEN": "Dispel Magic",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Dissonnance adaptative",
+    "nameEN": "Adaptive Ablation",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Doigt de mort",
+    "nameEN": "Finger of Death",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Domestiques invisibles",
+    "nameEN": "Unseen Custodians",
+    "category": "Sorts"
+  },
+  { "nameFR": "Domination", "nameEN": "Dominate", "category": "Sorts" },
+  {
+    "nameFR": "Domination tonitruante",
+    "nameEN": "Thundering Dominance",
+    "category": "Sorts"
+  },
+  { "nameFR": "Don des langues", "nameEN": "Tongues", "category": "Sorts" },
+  { "nameFR": "Don héroïque", "nameEN": "Heroic Feat", "category": "Sorts" },
+  {
+    "nameFR": "Don élémentaire",
+    "nameEN": "Elemental Gift",
+    "category": "Sorts"
+  },
+  { "nameFR": "Double illusoire", "nameEN": "Mislead", "category": "Sorts" },
+  {
+    "nameFR": "Douleur fantôme",
+    "nameEN": "Phantom Pain",
+    "category": "Sorts"
+  },
+  { "nameFR": "Doux rêve", "nameEN": "Sweet Dream", "category": "Sorts" },
+  { "nameFR": "Drain de vie", "nameEN": "Drain Life", "category": "Sorts" },
+  {
+    "nameFR": "Drain du cerveau",
+    "nameEN": "Brain Drain",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Dupliquer l'ennemi",
+    "nameEN": "Duplicate Foe",
+    "category": "Sorts"
+  },
+  { "nameFR": "Débilité", "nameEN": "Feeblemind", "category": "Sorts" },
+  { "nameFR": "Déblocage", "nameEN": "Knock", "category": "Sorts" },
+  {
+    "nameFR": "Décharge soudaine",
+    "nameEN": "Sudden Bolt",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Décharge électrique",
+    "nameEN": "Shocking Grasp",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Déchirer l'esprit",
+    "nameEN": "Rip the Spirit",
+    "category": "Sorts"
+  },
+  { "nameFR": "Décret divin", "nameEN": "Divine Decree", "category": "Sorts" },
+  { "nameFR": "Dédale", "nameEN": "Maze", "category": "Sorts" },
+  {
+    "nameFR": "Dédale de portes fermées",
+    "nameEN": "Maze of Locked Doors",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Défense ancestrale",
+    "nameEN": "Ancestral Defense",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Défi de dévouement",
+    "nameEN": "Dutiful Challenge",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Défi du héros",
+    "nameEN": "Hero's Defiance",
+    "category": "Sorts"
+  },
+  { "nameFR": "Déformer l'esprit", "nameEN": "Warp Mind", "category": "Sorts" },
+  {
+    "nameFR": "Dégradation soudaine",
+    "nameEN": "Sudden Blight",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Déguisement illusoire",
+    "nameEN": "Illusory Disguise",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Déguisement pénombral",
+    "nameEN": "Penumbral Disguise",
+    "category": "Sorts"
+  },
+  { "nameFR": "Déjà vu", "nameEN": "Déjà Vu", "category": "Sorts" },
+  {
+    "nameFR": "Délivrance de la paralysie",
+    "nameEN": "Remove Paralysis",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Délivrance de la peur",
+    "nameEN": "Remove Fear",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Délivrance des maladies",
+    "nameEN": "Remove Disease",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Délivrance des malédictions",
+    "nameEN": "Remove Curse",
+    "category": "Sorts"
+  },
+  { "nameFR": "Déluge", "nameEN": "Downpour", "category": "Sorts" },
+  { "nameFR": "Déluge intense", "nameEN": "Deluge", "category": "Sorts" },
+  { "nameFR": "Démanteler", "nameEN": "Dismantle", "category": "Sorts" },
+  {
+    "nameFR": "Déphasage de familier",
+    "nameEN": "Phase Familiar",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Déplacement sans entrave",
+    "nameEN": "Unimpeded Stride",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Déplacement soudain",
+    "nameEN": "Sudden Shift",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Désastre inévitable",
+    "nameEN": "Inevitable Disaster",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Désertion de l'âme",
+    "nameEN": "Empty Body",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Désespoir agonisant",
+    "nameEN": "Agonizing Despair",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Désespoir foudroyant",
+    "nameEN": "Crushing Despair",
+    "category": "Sorts"
+  },
+  { "nameFR": "Désintégration", "nameEN": "Disintegrate", "category": "Sorts" },
+  {
+    "nameFR": "Désir Charitable",
+    "nameEN": "Charitable Urge",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Désir du cœur",
+    "nameEN": "Heart's Desire",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Désirs macabres",
+    "nameEN": "Ghoulish Cravings",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Détection de l'invisibilité",
+    "nameEN": "See Invisibility",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Détection de la magie",
+    "nameEN": "Detect Magic",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Détection de la scrutation",
+    "nameEN": "Detect Scrying",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Détection de l’alignement",
+    "nameEN": "Detect Alignment",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Détection du mensonge",
+    "nameEN": "Discern Lies",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Détection du poison",
+    "nameEN": "Detect Poison",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Détection faussée",
+    "nameEN": "Misdirection",
+    "category": "Sorts"
+  },
+  { "nameFR": "Dévorer la vie", "nameEN": "Devour Life", "category": "Sorts" },
+  {
+    "nameFR": "Eaux de prédiction",
+    "nameEN": "Waters of Prediction",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Eidolon affranchi",
+    "nameEN": "Unfetter Eidolon",
+    "category": "Sorts"
+  },
+  { "nameFR": "Embrouiller", "nameEN": "Befuddle", "category": "Sorts" },
+  { "nameFR": "Emplâtre", "nameEN": "Healing Plaster", "category": "Sorts" },
+  { "nameFR": "Emprisonnement", "nameEN": "Imprisonment", "category": "Sorts" },
+  {
+    "nameFR": "En forgeant on devient forgeron",
+    "nameEN": "Practice Makes Perfect",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Enchantement féerique",
+    "nameEN": "Fey Glamour",
+    "category": "Sorts"
+  },
+  { "nameFR": "Enchevêtrement", "nameEN": "Entangle", "category": "Sorts" },
+  {
+    "nameFR": "Endurance aux éléments",
+    "nameEN": "Endure Elements",
+    "category": "Sorts"
+  },
+  { "nameFR": "Endurer", "nameEN": "Endure", "category": "Sorts" },
+  {
+    "nameFR": "Enflammer les cœurs",
+    "nameEN": "Stoke the Heart",
+    "category": "Sorts"
+  },
+  { "nameFR": "Ennemi subconscient", "nameEN": "Weird", "category": "Sorts" },
+  {
+    "nameFR": "Enthousiasme communicatif",
+    "nameEN": "Infectious Enthusiasm",
+    "category": "Sorts"
+  },
+  { "nameFR": "Entrave", "nameEN": "Tanglefoot", "category": "Sorts" },
+  {
+    "nameFR": "Entraves magiques",
+    "nameEN": "Magical Fetters",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Entraves végétales",
+    "nameEN": "Tangling Creepers",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Entrevoir la vérité",
+    "nameEN": "Glimpse the Truth",
+    "category": "Sorts"
+  },
+  { "nameFR": "Envoûtement", "nameEN": "Inveigle", "category": "Sorts" },
+  {
+    "nameFR": "Eruption volcanique",
+    "nameEN": "Volcanic Eruption",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Esprit de menace",
+    "nameEN": "Mind of Menace",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Esprit impénétrable",
+    "nameEN": "Mind Blank",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Esprit perfectionné",
+    "nameEN": "Perfected Mind",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Estomac sans fond",
+    "nameEN": "Bottomless Stomach",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Excavation expéditive",
+    "nameEN": "Expeditious Excavation",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Excision ectoplasmique",
+    "nameEN": "Ectoplasmic Expulsion",
+    "category": "Sorts"
+  },
+  { "nameFR": "Explosion Ki", "nameEN": "Ki Blast", "category": "Sorts" },
+  {
+    "nameFR": "Explosion d'acide",
+    "nameEN": "Acidic Burst",
+    "category": "Sorts"
+  },
+  { "nameFR": "Explosion d'air", "nameEN": "Airburst", "category": "Sorts" },
+  {
+    "nameFR": "Explosion d'ombre",
+    "nameEN": "Shadow Blast",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Explosion de fléau brûlant",
+    "nameEN": "Blightburn Blast",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Explosion de lumière",
+    "nameEN": "Sunburst",
+    "category": "Sorts"
+  },
+  { "nameFR": "Explosion lunaire", "nameEN": "Moonburst", "category": "Sorts" },
+  {
+    "nameFR": "Explosion tempêtueuse",
+    "nameEN": "Stormburst",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Explosion tonitruante",
+    "nameEN": "Thunderburst",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Explosion élémentaire",
+    "nameEN": "Elemental Blast",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Expulsion de l'âme",
+    "nameEN": "Eject Soul",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Extension de durée",
+    "nameEN": "Extend Spell",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Extraction du cerveau",
+    "nameEN": "Extract Brain",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Extraction du poison",
+    "nameEN": "Extract Poison",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Extraction ombrale",
+    "nameEN": "Umbral Extraction",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Faille ectoplasmique",
+    "nameEN": "Ectoplasmic Interstice",
+    "category": "Sorts"
+  },
+  { "nameFR": "Fanal de vie", "nameEN": "Vital Beacon", "category": "Sorts" },
+  { "nameFR": "Façade", "nameEN": "Item Facade", "category": "Sorts" },
+  {
+    "nameFR": "Façade fantastique",
+    "nameEN": "Fantastic Facade",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Façonnage de la pierre",
+    "nameEN": "Shape Stone",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Façonnage du bois",
+    "nameEN": "Shape Wood",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Festin d'émotions",
+    "nameEN": "Fearful Feast",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Festin de cendres",
+    "nameEN": "Feast of Ashes",
+    "category": "Sorts"
+  },
+  { "nameFR": "Festin de sang", "nameEN": "Blood Feast", "category": "Sorts" },
+  {
+    "nameFR": "Festin des héros",
+    "nameEN": "Heroes' Feast",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Feu follet enflammé",
+    "nameEN": "Flame Wisp",
+    "category": "Sorts"
+  },
+  { "nameFR": "Feu sauvage", "nameEN": "Wildfire", "category": "Sorts" },
+  { "nameFR": "Feuille morte", "nameEN": "Feather Fall", "category": "Sorts" },
+  {
+    "nameFR": "Fierté illusoire",
+    "nameEN": "Delusional Pride",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Fioritures artistiques",
+    "nameEN": "Artistic Flourish",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Fissure brûlante",
+    "nameEN": "Blazing Fissure",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Flamme éternelle",
+    "nameEN": "Continual Flame",
+    "category": "Sorts"
+  },
+  { "nameFR": "Flammes", "nameEN": "Produce Flame", "category": "Sorts" },
+  {
+    "nameFR": "Flammes purificatrices",
+    "nameEN": "Cleansing Flames",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Flammes rajeunissante",
+    "nameEN": "Rejuvenating Flames",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Flammes tourbillonnantes",
+    "nameEN": "Whirling Flames",
+    "category": "Sorts"
+  },
+  { "nameFR": "Flou", "nameEN": "Blur", "category": "Sorts" },
+  {
+    "nameFR": "Flux d'évolution",
+    "nameEN": "Evolution Surge",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Flux impeccable",
+    "nameEN": "Impeccable Flow",
+    "category": "Sorts"
+  },
+  { "nameFR": "Flèche acide", "nameEN": "Acid Arrow", "category": "Sorts" },
+  {
+    "nameFR": "Fléau du moustique",
+    "nameEN": "Mosquito Blight",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Flétrissement végétal",
+    "nameEN": "Blight",
+    "category": "Sorts"
+  },
+  { "nameFR": "Flétrissure", "nameEN": "Horrid Wilting", "category": "Sorts" },
+  {
+    "nameFR": "Flûte de Hamelin",
+    "nameEN": "Pied Piping",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Fondu dans la foule",
+    "nameEN": "Face in the Crowd",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Fontaine de sérénité",
+    "nameEN": "Font of Serenity",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Force du colosse",
+    "nameEN": "Righteous Might",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Force gravitationnelle",
+    "nameEN": "Gravitational Pull",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Forcer le nom véritable",
+    "nameEN": "Compel True Name",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Forme ancestrale",
+    "nameEN": "Ancestral Form",
+    "category": "Sorts"
+  },
+  { "nameFR": "Forme animale", "nameEN": "Animal Form", "category": "Sorts" },
+  { "nameFR": "Forme aérienne", "nameEN": "Aerial Form", "category": "Sorts" },
+  {
+    "nameFR": "Forme changeante",
+    "nameEN": "Shifting Form",
+    "category": "Sorts"
+  },
+  { "nameFR": "Forme cosmique", "nameEN": "Cosmic Form", "category": "Sorts" },
+  {
+    "nameFR": "Forme d'aberration",
+    "nameEN": "Aberrant Form",
+    "category": "Sorts"
+  },
+  { "nameFR": "Forme d'ange", "nameEN": "Angel Form", "category": "Sorts" },
+  { "nameFR": "Forme d'insecte", "nameEN": "Insect Form", "category": "Sorts" },
+  {
+    "nameFR": "Forme d'éléphant",
+    "nameEN": "Elephant Form",
+    "category": "Sorts"
+  },
+  { "nameFR": "Forme de daémon", "nameEN": "Daemon Form", "category": "Sorts" },
+  { "nameFR": "Forme de diable", "nameEN": "Devil Form", "category": "Sorts" },
+  {
+    "nameFR": "Forme de diable de Pointesable",
+    "nameEN": "Form of the Sandpoint Devil",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Forme de dinosaure",
+    "nameEN": "Dinosaur Form",
+    "category": "Sorts"
+  },
+  { "nameFR": "Forme de dragon", "nameEN": "Dragon Form", "category": "Sorts" },
+  { "nameFR": "Forme de démon", "nameEN": "Demon Form", "category": "Sorts" },
+  {
+    "nameFR": "Forme de familier",
+    "nameEN": "Familiar Form",
+    "category": "Sorts"
+  },
+  { "nameFR": "Forme de fée", "nameEN": "Fey Form", "category": "Sorts" },
+  {
+    "nameFR": "Forme de la mante",
+    "nameEN": "Mantis Form",
+    "category": "Sorts"
+  },
+  { "nameFR": "Forme de nuisible", "nameEN": "Pest Form", "category": "Sorts" },
+  { "nameFR": "Forme de nuée", "nameEN": "Swarm Form", "category": "Sorts" },
+  { "nameFR": "Forme de plante", "nameEN": "Plant Form", "category": "Sorts" },
+  { "nameFR": "Forme de vase", "nameEN": "Ooze Form", "category": "Sorts" },
+  {
+    "nameFR": "Forme déformée par un souhait",
+    "nameEN": "Wish-Twisted Form",
+    "category": "Sorts"
+  },
+  { "nameFR": "Forme gazeuse", "nameEN": "Gaseous Form", "category": "Sorts" },
+  {
+    "nameFR": "Forme génératrice de vie",
+    "nameEN": "Life-Giving Form",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Forme humanoïde",
+    "nameEN": "Humanoid Form",
+    "category": "Sorts"
+  },
+  { "nameFR": "Forme ki", "nameEN": "Ki Form", "category": "Sorts" },
+  {
+    "nameFR": "Forme monstrueuse",
+    "nameEN": "Monstrosity Form",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Forme parfaite",
+    "nameEN": "Perfected Form",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Forme tempêtueuse",
+    "nameEN": "Tempest Form",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Forme élémentaire",
+    "nameEN": "Elemental Form",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Forme éthérée",
+    "nameEN": "Ethereal Jaunt",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Fort dinosaure",
+    "nameEN": "Dinosaur Fort",
+    "category": "Sorts"
+  },
+  { "nameFR": "Fosse de boue", "nameEN": "Mud Pit", "category": "Sorts" },
+  { "nameFR": "Fou rire", "nameEN": "Hideous Laughter", "category": "Sorts" },
+  {
+    "nameFR": "Fouet du maître",
+    "nameEN": "Commanding Lash",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Foule fantômatique",
+    "nameEN": "Phantom Crowd",
+    "category": "Sorts"
+  },
+  { "nameFR": "Fracassement", "nameEN": "Shatter", "category": "Sorts" },
+  { "nameFR": "Frappe Ki", "nameEN": "Ki Strike", "category": "Sorts" },
+  {
+    "nameFR": "Frappe bouclier",
+    "nameEN": "Shielding Strike",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Frappe de débris",
+    "nameEN": "Pummeling Rubble",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Frappe de la divinité",
+    "nameEN": "Deity's Strike",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Frappe fluide",
+    "nameEN": "Flowing Strike",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Frappe tonitruante",
+    "nameEN": "Thunderous Strike",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Frénésie lunaire",
+    "nameEN": "Moon Frenzy",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Furie aveuglante",
+    "nameEN": "Blinding Fury",
+    "category": "Sorts"
+  },
+  { "nameFR": "Furie du soleil", "nameEN": "Sun's Fury", "category": "Sorts" },
+  {
+    "nameFR": "Fusillade enflammée",
+    "nameEN": "Flaming Fusillade",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Fusion dans la pierre",
+    "nameEN": "Meld into Stone",
+    "category": "Sorts"
+  },
+  { "nameFR": "Gain de vie", "nameEN": "Life Boost", "category": "Sorts" },
+  {
+    "nameFR": "Gardien spirituel",
+    "nameEN": "Spiritual Guardian",
+    "category": "Sorts"
+  },
+  { "nameFR": "Gaver", "nameEN": "Overstuff", "category": "Sorts" },
+  {
+    "nameFR": "Gemme explosive",
+    "nameEN": "Shattering Gem",
+    "category": "Sorts"
+  },
+  { "nameFR": "Germe de feu", "nameEN": "Fire Seeds", "category": "Sorts" },
+  {
+    "nameFR": "Gestalt vorace",
+    "nameEN": "Voracious Gestalt",
+    "category": "Sorts"
+  },
+  { "nameFR": "Geyser", "nameEN": "Geyser", "category": "Sorts" },
+  { "nameFR": "Glace tenace", "nameEN": "Clinging Ice", "category": "Sorts" },
+  {
+    "nameFR": "Globe d'invulnérabilité",
+    "nameEN": "Globe of Invulnerability",
+    "category": "Sorts"
+  },
+  { "nameFR": "Gloussement", "nameEN": "Cackle", "category": "Sorts" },
+  {
+    "nameFR": "Glyphe de cristal électrique",
+    "nameEN": "Electrified Crystal Ward",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Glyphe de garde",
+    "nameEN": "Glyph of Warding",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Glyphe temporaire",
+    "nameEN": "Temporary Glyph",
+    "category": "Sorts"
+  },
+  { "nameFR": "Gourdin magique", "nameEN": "Shillelagh", "category": "Sorts" },
+  { "nameFR": "Graisse", "nameEN": "Grease", "category": "Sorts" },
+  { "nameFR": "Grande foulée", "nameEN": "Longstrider", "category": "Sorts" },
+  {
+    "nameFR": "Gravité variable",
+    "nameEN": "Variable Gravity",
+    "category": "Sorts"
+  },
+  { "nameFR": "Gravité zéro", "nameEN": "Zero Gravity", "category": "Sorts" },
+  { "nameFR": "Greffe ombrale", "nameEN": "Umbral Graft", "category": "Sorts" },
+  {
+    "nameFR": "Griffe creusante",
+    "nameEN": "Gouging Claw",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Griffes de dragon",
+    "nameEN": "Dragon Claws",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Guide du pélerin",
+    "nameEN": "Wanderer's Guide",
+    "category": "Sorts"
+  },
+  { "nameFR": "Guérison", "nameEN": "Heal", "category": "Sorts" },
+  {
+    "nameFR": "Guérison de compagnon",
+    "nameEN": "Heal Companion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Guérison des animaux",
+    "nameEN": "Heal Animal",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Générosité du nécromant",
+    "nameEN": "Necromancer's Generosity",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Générosité naturelle",
+    "nameEN": "Nature's Bounty",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Géométrie étrange",
+    "nameEN": "Strange Geometry",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Haleine abrasive",
+    "nameEN": "Gritty Wheeze",
+    "category": "Sorts"
+  },
+  { "nameFR": "Hallucination", "nameEN": "Hallucination", "category": "Sorts" },
+  { "nameFR": "Halo angélique", "nameEN": "Angelic Halo", "category": "Sorts" },
+  {
+    "nameFR": "Harmonisation positive",
+    "nameEN": "Positive Attunement",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Harmonisation spirituelle",
+    "nameEN": "Spiritual Attunement",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Horribles excroissances",
+    "nameEN": "Grisly Growths",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Hostilité naturelle",
+    "nameEN": "Nature's Enmity",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Hymne de guérison",
+    "nameEN": "Hymn of Healing",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Hymne obsédant",
+    "nameEN": "Haunting Hymn",
+    "category": "Sorts"
+  },
+  { "nameFR": "Hyperacuité", "nameEN": "Hyperfocus", "category": "Sorts" },
+  {
+    "nameFR": "Hypercognition",
+    "nameEN": "Hypercognition",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Hyphe fongique",
+    "nameEN": "Fungal Hyphae",
+    "category": "Sorts"
+  },
+  { "nameFR": "Hébétement", "nameEN": "Daze", "category": "Sorts" },
+  { "nameFR": "Héroïsme", "nameEN": "Heroism", "category": "Sorts" },
+  { "nameFR": "Idiotie", "nameEN": "Touch of Idiocy", "category": "Sorts" },
+  {
+    "nameFR": "Illusion de l'ombre",
+    "nameEN": "Shadow Illusion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Image chromatique",
+    "nameEN": "Chromatic Image",
+    "category": "Sorts"
+  },
+  { "nameFR": "Image miroir", "nameEN": "Mirror Image", "category": "Sorts" },
+  {
+    "nameFR": "Imitation idéale",
+    "nameEN": "Ideal Mimicry",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Imiter un mort-vivant",
+    "nameEN": "Mimic Undead",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Immunité contre les sorts",
+    "nameEN": "Spell Immunity",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Implanter un message",
+    "nameEN": "Imprint Message",
+    "category": "Sorts"
+  },
+  { "nameFR": "Implosion", "nameEN": "Implosion", "category": "Sorts" },
+  {
+    "nameFR": "Imposition des mains",
+    "nameEN": "Lay on Hands",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Imposition des mains (sur un mort-vivant)",
+    "nameEN": "Lay on Hands (Vs. Undead)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Impression runique",
+    "nameEN": "Runic Impression",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Impressions de la tombe",
+    "nameEN": "Grave Impressions",
+    "category": "Sorts"
+  },
+  { "nameFR": "Imprécation", "nameEN": "Bane", "category": "Sorts" },
+  {
+    "nameFR": "Incarnation de la nature",
+    "nameEN": "Nature Incarnate",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Incarnation élémentaire",
+    "nameEN": "Element Embodied",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Infestation fongique",
+    "nameEN": "Fungal Infestation",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Infusion paisible",
+    "nameEN": "Halcyon Infusion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Inhalation puissante",
+    "nameEN": "Powerful Inhalation",
+    "category": "Sorts"
+  },
+  { "nameFR": "Injonction", "nameEN": "Command", "category": "Sorts" },
+  {
+    "nameFR": "Insigne du gardien du serment",
+    "nameEN": "Oathkeeper's Insignia",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Inspiration divine",
+    "nameEN": "Divine Inspiration",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Inspiration défensive",
+    "nameEN": "Inspire Defense",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Inspiration héroïque",
+    "nameEN": "Inspire Heroics",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Inspiration talentueuse",
+    "nameEN": "Inspire Competence",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Inspiration vaillante",
+    "nameEN": "Inspire Courage",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Instant de renouveau",
+    "nameEN": "Moment of Renewal",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Instant transcrit",
+    "nameEN": "Transcribe Moment",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Insurrection interne",
+    "nameEN": "Internal Insurrection",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Interdiction des fées",
+    "nameEN": "Fey Abeyance",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Invectives torrides",
+    "nameEN": "Blistering Invective",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Inversion de la gravité",
+    "nameEN": "Reverse Gravity",
+    "category": "Sorts"
+  },
+  { "nameFR": "Invisibilité", "nameEN": "Invisibility", "category": "Sorts" },
+  {
+    "nameFR": "Invocation d'anima (Modifiée)",
+    "nameEN": "Anima Invocation (Modified)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Invocation de héraut divin",
+    "nameEN": "Summon Deific Herald",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Invoquer l'anarchie",
+    "nameEN": "Summon Anarch",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Invoquer l'axiome",
+    "nameEN": "Summon Axiom",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Invoquer le Serment écarlate",
+    "nameEN": "Invoke the Crimson Oath",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Invoquer le nom véritable",
+    "nameEN": "Invoke True Name",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Invoquer les esprits",
+    "nameEN": "Invoke Spirits",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Invoquer un Kaiju",
+    "nameEN": "Summon Kaiju",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Invoquer un archimage",
+    "nameEN": "Summon Archmage",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Invoquer un serviteur inférieur",
+    "nameEN": "Summon Lesser Servitor",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Invoquer une légion draconique",
+    "nameEN": "Summon Draconic Legion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Invulnérabilité",
+    "nameEN": "Indestructibility",
+    "category": "Sorts"
+  },
+  { "nameFR": "Jaillissement", "nameEN": "Spout", "category": "Sorts" },
+  {
+    "nameFR": "Jardin mortel",
+    "nameEN": "Garden of Death",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Javelot chargé",
+    "nameEN": "Charged Javelin",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Jet de pierre",
+    "nameEN": "Hurtling Stone",
+    "category": "Sorts"
+  },
+  { "nameFR": "Jeux d'esprit", "nameEN": "Mind Games", "category": "Sorts" },
+  { "nameFR": "Joie malsaine", "nameEN": "Schadenfreude", "category": "Sorts" },
+  {
+    "nameFR": "Joindre les passés",
+    "nameEN": "Join Pasts",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Jumeau du trompeur",
+    "nameEN": "Trickster's Twin",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "La tortue et le lièvre",
+    "nameEN": "Tortoise and the Hare",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Labyrinthe astral",
+    "nameEN": "Astral Labyrinth",
+    "category": "Sorts"
+  },
+  { "nameFR": "Lame solaire", "nameEN": "Sun Blade", "category": "Sorts" },
+  { "nameFR": "Lamentation", "nameEN": "Lament", "category": "Sorts" },
+  {
+    "nameFR": "Lames de Doigtnoir",
+    "nameEN": "Blackfinger's Blades",
+    "category": "Sorts"
+  },
+  { "nameFR": "Lance de pierre", "nameEN": "Stone Lance", "category": "Sorts" },
+  { "nameFR": "Lance divine", "nameEN": "Divine Lance", "category": "Sorts" },
+  {
+    "nameFR": "Langue bifide",
+    "nameEN": "Split the Tongue",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Lanterne de la Faucheuse",
+    "nameEN": "Reaper's Lantern",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Laver votre chance",
+    "nameEN": "Wash Your Luck",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Le monde est une scène",
+    "nameEN": "The World's a Stage",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Lecture d'objet",
+    "nameEN": "Object Reading",
+    "category": "Sorts"
+  },
+  { "nameFR": "Lecture de l'aura", "nameEN": "Read Aura", "category": "Sorts" },
+  {
+    "nameFR": "Lecture des pensées",
+    "nameEN": "Mind Reading",
+    "category": "Sorts"
+  },
+  { "nameFR": "Lenteur", "nameEN": "Slow", "category": "Sorts" },
+  {
+    "nameFR": "Leurre aromatique",
+    "nameEN": "Aromatic Lure",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Liane meurtrière",
+    "nameEN": "Murderous Vine",
+    "category": "Sorts"
+  },
+  { "nameFR": "Liberté", "nameEN": "Freedom", "category": "Sorts" },
+  {
+    "nameFR": "Liberté de mouvement",
+    "nameEN": "Freedom of Movement",
+    "category": "Sorts"
+  },
+  { "nameFR": "Lien du cœur", "nameEN": "Heartbond", "category": "Sorts" },
+  { "nameFR": "Lien mental", "nameEN": "Mindlink", "category": "Sorts" },
+  { "nameFR": "Lien spirituel", "nameEN": "Spirit Link", "category": "Sorts" },
+  {
+    "nameFR": "Lien télépathique",
+    "nameEN": "Telepathic Bond",
+    "category": "Sorts"
+  },
+  { "nameFR": "Lien vital", "nameEN": "Life Link", "category": "Sorts" },
+  {
+    "nameFR": "Lier un mort-vivant",
+    "nameEN": "Bind Undead",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Lignes oubliées",
+    "nameEN": "Forgotten Lines",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Lire l'ambiance",
+    "nameEN": "Read the Air",
+    "category": "Sorts"
+  },
+  { "nameFR": "Lire le destin", "nameEN": "Read Fate", "category": "Sorts" },
+  {
+    "nameFR": "Lire les présages",
+    "nameEN": "Read Omens",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Litanie contre la colère",
+    "nameEN": "Litany against Wrath",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Litanie contre la paresse",
+    "nameEN": "Litany against Sloth",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Litanie d'égoïsme",
+    "nameEN": "Litany of Self-Interest",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Litanie de dépravation",
+    "nameEN": "Litany of Depravity",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Litanie de vertu",
+    "nameEN": "Litany of Righteousness",
+    "category": "Sorts"
+  },
+  { "nameFR": "Localisation", "nameEN": "Locate", "category": "Sorts" },
+  {
+    "nameFR": "Localisation suprême",
+    "nameEN": "Discern Location",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Lueur de charme",
+    "nameEN": "Glimmer of Charm",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Lueurs féériques",
+    "nameEN": "Faerie Fire",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Lueurs hypnotiques",
+    "nameEN": "Hypnotic Pattern",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Luminosité positive",
+    "nameEN": "Positive Luminance",
+    "category": "Sorts"
+  },
+  { "nameFR": "Lumière", "nameEN": "Light", "category": "Sorts" },
+  {
+    "nameFR": "Lumière brûlante",
+    "nameEN": "Searing Light",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Lumière de révélation",
+    "nameEN": "Light of Revelation",
+    "category": "Sorts"
+  },
+  { "nameFR": "Lumière noire", "nameEN": "Darklight", "category": "Sorts" },
+  {
+    "nameFR": "Lumières dansantes",
+    "nameEN": "Dancing Lights",
+    "category": "Sorts"
+  },
+  { "nameFR": "Lévitation", "nameEN": "Levitate", "category": "Sorts" },
+  { "nameFR": "Main de force", "nameEN": "Forceful Hand", "category": "Sorts" },
+  {
+    "nameFR": "Main de l'apprenti",
+    "nameEN": "Hand of the Apprentice",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Main spectrale",
+    "nameEN": "Spectral Hand",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Mains brûlantes",
+    "nameEN": "Burning Hands",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malchance du miroir",
+    "nameEN": "Mirror's Misfortune",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malfaisant miroir",
+    "nameEN": "Mirror Malefactors",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malheur annoncé",
+    "nameEN": "Impending Doom",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malheur du bandit",
+    "nameEN": "Bandit's Doom",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malédiction bestiale",
+    "nameEN": "Bestial Curse",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malédiction clownesque",
+    "nameEN": "Clownish Curse",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malédiction de mort",
+    "nameEN": "Curse of Death",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malédiction du marin",
+    "nameEN": "Mariner's Curse",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malédiction du paria",
+    "nameEN": "Outcast's Curse",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malédiction du rêveur éveillé",
+    "nameEN": "Daydreamer's Curse",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malédiction du sang répandu",
+    "nameEN": "Bloodspray Curse",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malédiction du savant",
+    "nameEN": "Savant's Curse",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malédiction du temps perdu",
+    "nameEN": "Curse Of Lost Time",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Malédiction titubante",
+    "nameEN": "Stumbling Curse",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Maléfice de jalousie",
+    "nameEN": "Jealous Hex",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Manipulation à distance",
+    "nameEN": "Mage Hand",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Manoir resplendissant",
+    "nameEN": "Resplendent Mansion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Manoir somptueux",
+    "nameEN": "Magnificent Mansion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Manque de foi",
+    "nameEN": "Crisis of Faith",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Manteau d'ombre",
+    "nameEN": "Cloak of Shadow",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Manteau du cœur gelé",
+    "nameEN": "Mantle of the Frozen Heart",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Manteau du cœur magmatique",
+    "nameEN": "Mantle of the Magma Heart",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Manœuvre télékinésique",
+    "nameEN": "Telekinetic Maneuver",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Marais de paresse",
+    "nameEN": "Swamp of Sloth",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Marche dans les airs",
+    "nameEN": "Air Walk",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Marche de Guirzanjé",
+    "nameEN": "Girzanje's March",
+    "category": "Sorts"
+  },
+  { "nameFR": "Marche sur l'eau", "nameEN": "Water Walk", "category": "Sorts" },
+  {
+    "nameFR": "Marque affranchie (tatouage)",
+    "nameEN": "Unfettered Mark",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Marque céleste",
+    "nameEN": "Celestial Brand",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Marquer l'impénitent",
+    "nameEN": "Brand the Impenitent",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Masque insondable",
+    "nameEN": "Inscrutable Mask",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Masque sépucral",
+    "nameEN": "Sepulchral Mask",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Masque terrifiant",
+    "nameEN": "Mask of Terror",
+    "category": "Sorts"
+  },
+  { "nameFR": "Massacre", "nameEN": "Massacre", "category": "Sorts" },
+  {
+    "nameFR": "Mauvais chemin",
+    "nameEN": "Lose the Path",
+    "category": "Sorts"
+  },
+  { "nameFR": "Mauvais présage", "nameEN": "Ill Omen", "category": "Sorts" },
+  { "nameFR": "Mauvais œil", "nameEN": "Evil Eye", "category": "Sorts" },
+  {
+    "nameFR": "Membres tentaculaires",
+    "nameEN": "Tentacular Limbs",
+    "category": "Sorts"
+  },
+  { "nameFR": "Message", "nameEN": "Message", "category": "Sorts" },
+  {
+    "nameFR": "Message onirique",
+    "nameEN": "Dream Message",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Messager angélique",
+    "nameEN": "Angelic Messenger",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Messager animal",
+    "nameEN": "Animal Messenger",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Meute sans entrave",
+    "nameEN": "Unfettered Pack",
+    "category": "Sorts"
+  },
+  { "nameFR": "Miasmes infâmes", "nameEN": "Foul Miasma", "category": "Sorts" },
+  { "nameFR": "Miettes de pain", "nameEN": "Breadcrumbs", "category": "Sorts" },
+  { "nameFR": "Mine psychique", "nameEN": "Animus Mine", "category": "Sorts" },
+  { "nameFR": "Miracle", "nameEN": "Miracle", "category": "Sorts" },
+  { "nameFR": "Mise à mal", "nameEN": "Harm", "category": "Sorts" },
+  { "nameFR": "Mise à mort", "nameEN": "Death Knell", "category": "Sorts" },
+  {
+    "nameFR": "Mobilité élémentaire",
+    "nameEN": "Elemental Motion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Modification de mémoire",
+    "nameEN": "Modify Memory",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Moment restoratif",
+    "nameEN": "Restorative Moment",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Montrer le chemin",
+    "nameEN": "Show the Way",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Morphologie d'arbre",
+    "nameEN": "Tree Shape",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Morphologie sauvage",
+    "nameEN": "Wild Shape",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Morsure d'araignée",
+    "nameEN": "Spider Sting",
+    "category": "Sorts"
+  },
+  { "nameFR": "Morsure magique", "nameEN": "Magic Fang", "category": "Sorts" },
+  {
+    "nameFR": "Mot de Rappel",
+    "nameEN": "Word of Recall",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Mot de liberté",
+    "nameEN": "Word of Freedom",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Mot de pouvoir aveuglant",
+    "nameEN": "Power Word Blind",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Mot de pouvoir mortel",
+    "nameEN": "Power Word Kill",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Mot de pouvoir étourdissant",
+    "nameEN": "Power Word Stun",
+    "category": "Sorts"
+  },
+  { "nameFR": "Mot de vérité", "nameEN": "Word of Truth", "category": "Sorts" },
+  {
+    "nameFR": "Motif scintillant",
+    "nameEN": "Scintillating Pattern",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Motif éclatant",
+    "nameEN": "Vibrant Pattern",
+    "category": "Sorts"
+  },
+  { "nameFR": "Mots mordants", "nameEN": "Biting Words", "category": "Sorts" },
+  { "nameFR": "Mues de peau", "nameEN": "Slough Skin", "category": "Sorts" },
+  {
+    "nameFR": "Multitude de couteaux",
+    "nameEN": "Thicket of Knives",
+    "category": "Sorts"
+  },
+  { "nameFR": "Mur aquatique", "nameEN": "Wall of Water", "category": "Sorts" },
+  {
+    "nameFR": "Mur chromatique",
+    "nameEN": "Chromatic Wall",
+    "category": "Sorts"
+  },
+  { "nameFR": "Mur d'ombre", "nameEN": "Wall of Shadow", "category": "Sorts" },
+  { "nameFR": "Mur d'yeux", "nameEN": "Web of Eyes", "category": "Sorts" },
+  { "nameFR": "Mur d'épines", "nameEN": "Wall of Thorns", "category": "Sorts" },
+  { "nameFR": "Mur de chair", "nameEN": "Wall of Flesh", "category": "Sorts" },
+  { "nameFR": "Mur de feu", "nameEN": "Wall of Fire", "category": "Sorts" },
+  { "nameFR": "Mur de force", "nameEN": "Wall of Force", "category": "Sorts" },
+  { "nameFR": "Mur de glace", "nameEN": "Wall of Ice", "category": "Sorts" },
+  { "nameFR": "Mur de pierre", "nameEN": "Wall of Stone", "category": "Sorts" },
+  { "nameFR": "Mur de vent", "nameEN": "Wall of Wind", "category": "Sorts" },
+  {
+    "nameFR": "Mur prismatique",
+    "nameEN": "Prismatic Wall",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Mur rayonnant",
+    "nameEN": "Wall of Radiance",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Murmures aberrants",
+    "nameEN": "Aberrant Whispers",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Murmures tatoués",
+    "nameEN": "Tattoo Whispers",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Mythes et légendes",
+    "nameEN": "Legend Lore",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Mâchoire dévorante",
+    "nameEN": "Ravening Maw",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Mâchoires gloutonnes",
+    "nameEN": "Glutton's Jaw",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Mélodie infectieuse",
+    "nameEN": "Infectuous Melody",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Mémoire de l'objet",
+    "nameEN": "Object Memory",
+    "category": "Sorts"
+  },
+  { "nameFR": "Métal brûlant", "nameEN": "Heat Metal", "category": "Sorts" },
+  {
+    "nameFR": "Métamorphose funeste",
+    "nameEN": "Baleful Polymorph",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Métamorphose sauvage",
+    "nameEN": "Wild Morph",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Métaux précieux",
+    "nameEN": "Precious Metals",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Neutralisation du poison",
+    "nameEN": "Neutralize Poison",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Nombre porte bonheur",
+    "nameEN": "Lucky Number",
+    "category": "Sorts"
+  },
+  { "nameFR": "Nuage de cendres", "nameEN": "Ash Cloud", "category": "Sorts" },
+  {
+    "nameFR": "Nuage de pluie individuel",
+    "nameEN": "Personal Rain Cloud",
+    "category": "Sorts"
+  },
+  { "nameFR": "Nuage mortel", "nameEN": "Cloudkill", "category": "Sorts" },
+  {
+    "nameFR": "Nuage nauséabond",
+    "nameEN": "Stinking Cloud",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Nuée de dards de guêpes",
+    "nameEN": "Swarming Wasp Stings",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Nuée de météores",
+    "nameEN": "Meteor Swarm",
+    "category": "Sorts"
+  },
+  { "nameFR": "Nécroser", "nameEN": "Necrotize", "category": "Sorts" },
+  { "nameFR": "Objet animé", "nameEN": "Spirit Object", "category": "Sorts" },
+  {
+    "nameFR": "Objet illusoire",
+    "nameEN": "Illusory Object",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Objet invisible",
+    "nameEN": "Invisible Item",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Obscurité dévorante",
+    "nameEN": "Consuming Darkness",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Observation implacable",
+    "nameEN": "Unrelenting Observation",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Obéissance",
+    "nameEN": "Touch of Obedience",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Ode à Ouroboros",
+    "nameEN": "Ode to Ouroboros",
+    "category": "Sorts"
+  },
+  { "nameFR": "Ombre grise", "nameEN": "Gray Shadow", "category": "Sorts" },
+  {
+    "nameFR": "Ombre imprononçable",
+    "nameEN": "Unspeakable Shadow",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Ombre malicieuse",
+    "nameEN": "Malicious Shadow",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Ombres sauvages",
+    "nameEN": "Feral Shades",
+    "category": "Sorts"
+  },
+  { "nameFR": "Onde de choc", "nameEN": "Shockwave", "category": "Sorts" },
+  {
+    "nameFR": "Onde de tempête",
+    "nameEN": "Tempest Surge",
+    "category": "Sorts"
+  },
+  { "nameFR": "Onde océanique", "nameEN": "Sea Surge", "category": "Sorts" },
+  { "nameFR": "Orbe aqueux", "nameEN": "Aqueous Orb", "category": "Sorts" },
+  {
+    "nameFR": "Ordre libérateur",
+    "nameEN": "Liberating Command",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Ordre télépathique",
+    "nameEN": "Telepathic Demand",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Outil temporaire",
+    "nameEN": "Temporary Tool",
+    "category": "Sorts"
+  },
+  { "nameFR": "Pacte abyssal", "nameEN": "Abyssal Pact", "category": "Sorts" },
+  { "nameFR": "Pacte avec un owb", "nameEN": "Owb Pact", "category": "Sorts" },
+  {
+    "nameFR": "Pacte daémoniaque",
+    "nameEN": "Daemonic Pact",
+    "category": "Sorts"
+  },
+  { "nameFR": "Pacte du Div", "nameEN": "Div Pact", "category": "Sorts" },
+  {
+    "nameFR": "Pacte infernal",
+    "nameEN": "Infernal Pact",
+    "category": "Sorts"
+  },
+  { "nameFR": "Page secrète", "nameEN": "Secret Page", "category": "Sorts" },
+  { "nameFR": "Paralysie", "nameEN": "Paralyze", "category": "Sorts" },
+  { "nameFR": "Paranoïa", "nameEN": "Paranoia", "category": "Sorts" },
+  {
+    "nameFR": "Pari Asmodéen",
+    "nameEN": "Asmodean Wager",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Paroles apaisantes",
+    "nameEN": "Soothing Words",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Paroles charmeuses",
+    "nameEN": "Charming Words",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Paroles sauvages",
+    "nameEN": "Wilding Word",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Partage du fardeau",
+    "nameEN": "Share Burden",
+    "category": "Sorts"
+  },
+  { "nameFR": "Pas chassé", "nameEN": "Abundant Step", "category": "Sorts" },
+  {
+    "nameFR": "Pas interdimensionnel",
+    "nameEN": "Dimensional Steps",
+    "category": "Sorts"
+  },
+  { "nameFR": "Pas rapide", "nameEN": "Fleet Step", "category": "Sorts" },
+  {
+    "nameFR": "Passage sans trace",
+    "nameEN": "Pass Without Trace",
+    "category": "Sorts"
+  },
+  { "nameFR": "Passage sûr", "nameEN": "Safe Passage", "category": "Sorts" },
+  { "nameFR": "Passe-muraille", "nameEN": "Passwall", "category": "Sorts" },
+  {
+    "nameFR": "Pattes d'araignée",
+    "nameEN": "Spider Climb",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Paume vibratoire",
+    "nameEN": "Quivering Palm",
+    "category": "Sorts"
+  },
+  { "nameFR": "Peau d'écorce", "nameEN": "Barkskin", "category": "Sorts" },
+  { "nameFR": "Peau d'épine", "nameEN": "Nettleskin", "category": "Sorts" },
+  { "nameFR": "Peau de pierre", "nameEN": "Stoneskin", "category": "Sorts" },
+  { "nameFR": "Peau magique", "nameEN": "Magic Hide", "category": "Sorts" },
+  {
+    "nameFR": "Perception des esprits",
+    "nameEN": "Spirit Sense",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Persévérance sur le champ de bataille",
+    "nameEN": "Battlefield Persistence",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Peste abyssale",
+    "nameEN": "Abyssal Plague",
+    "category": "Sorts"
+  },
+  { "nameFR": "Peur du soleil", "nameEN": "Fear the Sun", "category": "Sorts" },
+  {
+    "nameFR": "Phare de retour",
+    "nameEN": "Return Beacon",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Phare mystique",
+    "nameEN": "Mystic Beacon",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Phénomène primordial",
+    "nameEN": "Primal Phenomenon",
+    "category": "Sorts"
+  },
+  { "nameFR": "Pieds Agiles", "nameEN": "Agile Feet", "category": "Sorts" },
+  {
+    "nameFR": "Pieds en nageoires",
+    "nameEN": "Feet to Fins",
+    "category": "Sorts"
+  },
+  { "nameFR": "Pierre commère", "nameEN": "Stone Tell", "category": "Sorts" },
+  {
+    "nameFR": "Pierre en chair",
+    "nameEN": "Stone to Flesh",
+    "category": "Sorts"
+  },
+  { "nameFR": "Pierre magique", "nameEN": "Magic Stone", "category": "Sorts" },
+  {
+    "nameFR": "Pilier d'eau",
+    "nameEN": "Pillar of Water",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Piliers de sable",
+    "nameEN": "Pillars of Sand",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Pique empaleuse",
+    "nameEN": "Impaling Spike",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Piques de pierre",
+    "nameEN": "Spike Stones",
+    "category": "Sorts"
+  },
+  { "nameFR": "Piqûre de Leng", "nameEN": "Leng Sting", "category": "Sorts" },
+  {
+    "nameFR": "Piqûre de linnorm",
+    "nameEN": "Linnorm Sting",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Piqûres bourdonnantes",
+    "nameEN": "Buzzing Bites",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Pistage éphémère",
+    "nameEN": "Ephemeral Tracking",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Piège artisanal bondissant",
+    "nameEN": "Snare Hopping",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Plaies divines",
+    "nameEN": "Divine Plagues",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Plainte d'outre-tombe",
+    "nameEN": "Wail of the Banshee",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Plongeon ardent",
+    "nameEN": "Blazing Dive",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Plénitude physique",
+    "nameEN": "Wholeness of Body",
+    "category": "Sorts"
+  },
+  { "nameFR": "Poids du jour", "nameEN": "Day's Weight", "category": "Sorts" },
+  {
+    "nameFR": "Poigne de flétrissement",
+    "nameEN": "Withering Grasp",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Poigne oxydante",
+    "nameEN": "Rusting Grasp",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Poltergeist pernicieux",
+    "nameEN": "Pernicious Poltergeist",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Pont de Lumière lunaire",
+    "nameEN": "Moonlight Bridge",
+    "category": "Sorts"
+  },
+  { "nameFR": "Pont sonate", "nameEN": "Sonata Span", "category": "Sorts" },
+  { "nameFR": "Portail", "nameEN": "Gate", "category": "Sorts" },
+  {
+    "nameFR": "Portail affamé",
+    "nameEN": "Ravenous Portal",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Porte dimensionnelle",
+    "nameEN": "Dimension Door",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Porte vers l'au-delà",
+    "nameEN": "Door to Beyond",
+    "category": "Sorts"
+  },
+  { "nameFR": "Porte-voix", "nameEN": "Bullhorn", "category": "Sorts" },
+  {
+    "nameFR": "Portrait de dépit",
+    "nameEN": "Portrait of Spite",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Portrait de l'artiste",
+    "nameEN": "Portrait of the Artist",
+    "category": "Sorts"
+  },
+  { "nameFR": "Possession", "nameEN": "Possession", "category": "Sorts" },
+  {
+    "nameFR": "Posture des ombres tenaces",
+    "nameEN": "Clinging Shadows Stance",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Posture des vents violents",
+    "nameEN": "Wild Winds Stance",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Potentiel onirique",
+    "nameEN": "Dreaming Potential",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Pouls de la ville",
+    "nameEN": "Pulse of the City",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Poussière de diamant",
+    "nameEN": "Diamond Dust",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Poussière féerique",
+    "nameEN": "Faerie Dust",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Poussière scintillante",
+    "nameEN": "Glitterdust",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Poussée hydraulique",
+    "nameEN": "Hydraulic Push",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Prestidigitation",
+    "nameEN": "Prestidigitation",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Prison fantôme",
+    "nameEN": "Phantom Prison",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Projectile d'ombre",
+    "nameEN": "Shadow Projectile",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Projectile magique",
+    "nameEN": "Magic Missile",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Projectile télékinésique",
+    "nameEN": "Telekinetic Projectile",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Projectile élémentaire",
+    "nameEN": "Elemental Toss",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Projection astrale",
+    "nameEN": "Astral Projection",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Projection d'image",
+    "nameEN": "Project Image",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Projection d'éboulis",
+    "nameEN": "Scatter Scree",
+    "category": "Sorts"
+  },
+  { "nameFR": "Protection", "nameEN": "Protection", "category": "Sorts" },
+  {
+    "nameFR": "Protection contre la mort",
+    "nameEN": "Death Ward",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Protection d'autrui",
+    "nameEN": "Shield Other",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Protection de domaine",
+    "nameEN": "Ward Domain",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Protection du Maître des sorts",
+    "nameEN": "Spellmaster's Ward",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Protection du fer qui ne plie pas",
+    "nameEN": "Untwisting Iron Buffer",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Protection du sang",
+    "nameEN": "Blood Ward",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Protection temporelle",
+    "nameEN": "Temporal Ward",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Protéger le compagnon",
+    "nameEN": "Protect Companion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Précaution du conjurateur",
+    "nameEN": "Summoner's Precaution",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Précaution scintillante",
+    "nameEN": "Scintillating Safeguard",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Précautions de Perséis",
+    "nameEN": "Perseis's Precautions",
+    "category": "Sorts"
+  },
+  { "nameFR": "Prémonition", "nameEN": "Foresight", "category": "Sorts" },
+  {
+    "nameFR": "Présence écrasante",
+    "nameEN": "Overwhelming Presence",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Préservation des morts",
+    "nameEN": "Gentle Repose",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Puissance protectrice",
+    "nameEN": "Enduring Might",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Puits de gravité",
+    "nameEN": "Gravity Well",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Puits de guérison",
+    "nameEN": "Healing Well",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Pulsation répulsive",
+    "nameEN": "Repelling Pulse",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Pulsation synaptique",
+    "nameEN": "Synaptic Pulse",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Purifier la nourriture et la boisson",
+    "nameEN": "Purify Food and Drink",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Purifier le chemin de l'âme",
+    "nameEN": "Purify Soul Path",
+    "category": "Sorts"
+  },
+  { "nameFR": "Pustule", "nameEN": "Blister", "category": "Sorts" },
+  { "nameFR": "Pyrotechnie", "nameEN": "Pyrotechnics", "category": "Sorts" },
+  { "nameFR": "Pénitence", "nameEN": "Atone", "category": "Sorts" },
+  {
+    "nameFR": "Pétales brûlants",
+    "nameEN": "Burning Blossoms",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Radiation nécrotique",
+    "nameEN": "Necrotic Radiation",
+    "category": "Sorts"
+  },
+  { "nameFR": "Rafale glacée", "nameEN": "Frigid Flurry", "category": "Sorts" },
+  {
+    "nameFR": "Rafale hors saison",
+    "nameEN": "Unseasonable Squall",
+    "category": "Sorts"
+  },
+  { "nameFR": "Raid de l'ombre", "nameEN": "Shadow Raid", "category": "Sorts" },
+  { "nameFR": "Raide mort", "nameEN": "Drop Dead", "category": "Sorts" },
+  { "nameFR": "Rapidité", "nameEN": "Haste", "category": "Sorts" },
+  { "nameFR": "Rappel à la vie", "nameEN": "Raise Dead", "category": "Sorts" },
+  { "nameFR": "Rapport", "nameEN": "Status", "category": "Sorts" },
+  { "nameFR": "Ravages magiques", "nameEN": "Spellwrack", "category": "Sorts" },
+  {
+    "nameFR": "Rayon affaiblissant",
+    "nameEN": "Ray of Enfeeblement",
+    "category": "Sorts"
+  },
+  { "nameFR": "Rayon ardent", "nameEN": "Scorching Ray", "category": "Sorts" },
+  {
+    "nameFR": "Rayon chromatique",
+    "nameEN": "Chromatic Ray",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Rayon d'admonestation",
+    "nameEN": "Admonishing Ray",
+    "category": "Sorts"
+  },
+  { "nameFR": "Rayon de feu", "nameEN": "Fire Ray", "category": "Sorts" },
+  { "nameFR": "Rayon de givre", "nameEN": "Ray of Frost", "category": "Sorts" },
+  {
+    "nameFR": "Rayon de lumière de lune",
+    "nameEN": "Moonlight Ray",
+    "category": "Sorts"
+  },
+  { "nameFR": "Rayon de lune", "nameEN": "Moonbeam", "category": "Sorts" },
+  { "nameFR": "Rayon polaire", "nameEN": "Polar Ray", "category": "Sorts" },
+  {
+    "nameFR": "Rayon prismatique",
+    "nameEN": "Prismatic Spray",
+    "category": "Sorts"
+  },
+  { "nameFR": "Raz-de-marée", "nameEN": "Tidal Surge", "category": "Sorts" },
+  { "nameFR": "Recréer", "nameEN": "Remake", "category": "Sorts" },
+  {
+    "nameFR": "Refrain d'argent",
+    "nameEN": "Silver's Refrain",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Regret du combattant",
+    "nameEN": "Warrior's Regret",
+    "category": "Sorts"
+  },
+  { "nameFR": "Relier", "nameEN": "Tether", "category": "Sorts" },
+  { "nameFR": "Relooking", "nameEN": "Restyle", "category": "Sorts" },
+  {
+    "nameFR": "Remembrance des morts",
+    "nameEN": "Remember the Lost",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Renforcer l'eidolon",
+    "nameEN": "Reinforce Eidolon",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Renforcer la ligne tellurique",
+    "nameEN": "Empower Ley Line",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Renforcer les chances",
+    "nameEN": "Nudge the Odds",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Renvoi de sorts",
+    "nameEN": "Spell Turning",
+    "category": "Sorts"
+  },
+  { "nameFR": "Repas du ver", "nameEN": "Worm's Repast", "category": "Sorts" },
+  { "nameFR": "Repos éternel", "nameEN": "Rest Eternal", "category": "Sorts" },
+  { "nameFR": "Repère temporel", "nameEN": "Time Beacon", "category": "Sorts" },
+  { "nameFR": "Repérage", "nameEN": "Know Direction", "category": "Sorts" },
+  {
+    "nameFR": "Respiration aquatique",
+    "nameEN": "Water Breathing",
+    "category": "Sorts"
+  },
+  { "nameFR": "Restauration", "nameEN": "Restoration", "category": "Sorts" },
+  {
+    "nameFR": "Restaurer les sens",
+    "nameEN": "Restore Senses",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Retarder l'affliction",
+    "nameEN": "Delay Affliction",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Retour en arrière",
+    "nameEN": "Rewinding Step",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Retour à l'énergie",
+    "nameEN": "Return To Essence",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Richesse apparente",
+    "nameEN": "Appearance of Wealth",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Rideau de dissimulation",
+    "nameEN": "Concealment's Curtain",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Rituel de l'étoile rouge",
+    "nameEN": "Rite of the Red Star",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Ronces empaleuses",
+    "nameEN": "Impaling Briars",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Roncier du rôdeur",
+    "nameEN": "Ranger's Bramble",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Rugissement du Ver",
+    "nameEN": "Roar of the Wyrm",
+    "category": "Sorts"
+  },
+  { "nameFR": "Rune messagère", "nameEN": "Message Rune", "category": "Sorts" },
+  { "nameFR": "Ruée Ki", "nameEN": "Ki Rush", "category": "Sorts" },
+  {
+    "nameFR": "Ruée du vent qui se déploie",
+    "nameEN": "Unfolding Wind Rush",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Râga du souvenir",
+    "nameEN": "Raga of Remembrance",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Réanimation vorace",
+    "nameEN": "Ravenous Reanimation",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Réceptacle divin",
+    "nameEN": "Divine Vessel",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Réceptacle magique",
+    "nameEN": "Magic's Vessel",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Réclamer la malédiction",
+    "nameEN": "Claim Curse",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Réclamer un mort-vivant",
+    "nameEN": "Claim Undead",
+    "category": "Sorts"
+  },
+  { "nameFR": "Récupère ami", "nameEN": "Friendfetch", "category": "Sorts" },
+  { "nameFR": "Régénération", "nameEN": "Regenerate", "category": "Sorts" },
+  { "nameFR": "Réincarnation", "nameEN": "Reincarnate", "category": "Sorts" },
+  { "nameFR": "Réparation", "nameEN": "Mending", "category": "Sorts" },
+  {
+    "nameFR": "Réparation communautaire",
+    "nameEN": "Community Repair",
+    "category": "Sorts"
+  },
+  { "nameFR": "Répit chanceux", "nameEN": "Lucky Break", "category": "Sorts" },
+  { "nameFR": "Réplique", "nameEN": "Replicate", "category": "Sorts" },
+  {
+    "nameFR": "Réprimander la mort",
+    "nameEN": "Rebuke Death",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Réprésailles de la nature",
+    "nameEN": "Nature's Reprisal",
+    "category": "Sorts"
+  },
+  { "nameFR": "Répulsion", "nameEN": "Repulsion", "category": "Sorts" },
+  {
+    "nameFR": "Répulsion magnétique",
+    "nameEN": "Magnetic Repulsion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Résistance à l'énergie",
+    "nameEN": "Resist Energy",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Résolution sacrée",
+    "nameEN": "Ordained Purpose",
+    "category": "Sorts"
+  },
+  { "nameFR": "Résurrection", "nameEN": "Resurrect", "category": "Sorts" },
+  {
+    "nameFR": "Rétrocognition",
+    "nameEN": "Retrocognition",
+    "category": "Sorts"
+  },
+  { "nameFR": "Rétrécir", "nameEN": "Shrink", "category": "Sorts" },
+  {
+    "nameFR": "Rétrécir un objet",
+    "nameEN": "Shrink Item",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Réveil de squelettes",
+    "nameEN": "Rouse Skeletons",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Révélation de la flamme qui ne vacille pas",
+    "nameEN": "Unblinking Flame Revelation",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Sable décapant",
+    "nameEN": "Scouring Sand",
+    "category": "Sorts"
+  },
+  { "nameFR": "Sable mouvant", "nameEN": "Shifting Sand", "category": "Sorts" },
+  {
+    "nameFR": "Sacrifice du champion",
+    "nameEN": "Champion's Sacrifice",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Sacrifice du protecteur",
+    "nameEN": "Protector's Sacrifice",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Sacrifice final",
+    "nameEN": "Final Sacrifice",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Saignée du vampire",
+    "nameEN": "Vampiric Exsanguination",
+    "category": "Sorts"
+  },
+  { "nameFR": "Sanctuaire", "nameEN": "Sanctuary", "category": "Sorts" },
+  {
+    "nameFR": "Sanctuaire secret",
+    "nameEN": "Private Sanctum",
+    "category": "Sorts"
+  },
+  { "nameFR": "Sang bouilli", "nameEN": "Boil Blood", "category": "Sorts" },
+  {
+    "nameFR": "Sangsue de la divinité",
+    "nameEN": "Divinity Leech",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Saper la réalité",
+    "nameEN": "Undermine Reality",
+    "category": "Sorts"
+  },
+  { "nameFR": "Saut", "nameEN": "Jump", "category": "Sorts" },
+  { "nameFR": "Saut de l'ombre", "nameEN": "Shadow Jump", "category": "Sorts" },
+  { "nameFR": "Saut du vent", "nameEN": "Wind Jump", "category": "Sorts" },
+  { "nameFR": "Saut temporel", "nameEN": "Time Jump", "category": "Sorts" },
+  {
+    "nameFR": "Savourer la douleur",
+    "nameEN": "Savor the Sting",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Sceau d'interdiction",
+    "nameEN": "Forbidding Ward",
+    "category": "Sorts"
+  },
+  { "nameFR": "Sceller le destin", "nameEN": "Seal Fate", "category": "Sorts" },
+  { "nameFR": "Scrutation", "nameEN": "Scrying", "category": "Sorts" },
+  {
+    "nameFR": "Sculpter le son",
+    "nameEN": "Sculpt Sound",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Scène illusoire",
+    "nameEN": "Illusory Scene",
+    "category": "Sorts"
+  },
+  { "nameFR": "Secoueur d'os", "nameEN": "Boneshaker", "category": "Sorts" },
+  {
+    "nameFR": "Secret bien gardé",
+    "nameEN": "Safeguard Secret",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Secret effroyable",
+    "nameEN": "Dread Secret",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Seigneur des tempêtes",
+    "nameEN": "Storm Lord",
+    "category": "Sorts"
+  },
+  { "nameFR": "Sens de la nuée", "nameEN": "Swarmsense", "category": "Sorts" },
+  {
+    "nameFR": "Sentinelle élémentaire",
+    "nameEN": "Elemental Sentinel",
+    "category": "Sorts"
+  },
+  { "nameFR": "Serment rituel", "nameEN": "Geas", "category": "Sorts" },
+  {
+    "nameFR": "Serviteur invisible",
+    "nameEN": "Unseen Servant",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Serviteur persistant",
+    "nameEN": "Persistent Servant",
+    "category": "Sorts"
+  },
+  { "nameFR": "Silence", "nameEN": "Silence", "category": "Sorts" },
+  { "nameFR": "Silence forcé", "nameEN": "Forced Quiet", "category": "Sorts" },
+  { "nameFR": "Simulacre de vie", "nameEN": "False Life", "category": "Sorts" },
+  { "nameFR": "Simulacrum", "nameEN": "Simulacrum", "category": "Sorts" },
+  { "nameFR": "Singes fous", "nameEN": "Mad Monkeys", "category": "Sorts" },
+  {
+    "nameFR": "Sinistres volutes",
+    "nameEN": "Grim Tendrils",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Siphon d'ombre",
+    "nameEN": "Shadow Siphon",
+    "category": "Sorts"
+  },
+  { "nameFR": "Siphon d'âme", "nameEN": "Soul Siphon", "category": "Sorts" },
+  { "nameFR": "Siphon de vie", "nameEN": "Life Siphon", "category": "Sorts" },
+  {
+    "nameFR": "Siphonner les couleurs",
+    "nameEN": "Chroma Leach",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Sol écrasant",
+    "nameEN": "Crushing Ground",
+    "category": "Sorts"
+  },
+  { "nameFR": "Sommeil", "nameEN": "Sleep", "category": "Sorts" },
+  { "nameFR": "Son imaginaire", "nameEN": "Ghost Sound", "category": "Sorts" },
+  { "nameFR": "Sonde mentale", "nameEN": "Mind Probe", "category": "Sorts" },
+  {
+    "nameFR": "Sort estival",
+    "nameEN": "Summerland Spell",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon",
+    "nameEN": "Dragon Breath",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (Airain)",
+    "nameEN": "Dragon Breath (Brass)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (Argent ou Blanc)",
+    "nameEN": "Dragon Breath (Silver or White)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (Bleu ou Bronze)",
+    "nameEN": "Dragon Breath (Blue or Bronze)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (Cristal ou Forêt)",
+    "nameEN": "Dragon Breath (Crystal or Forest)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (Cuivre, Noir ou Saumure)",
+    "nameEN": "Dragon Breath (Black, Brine or Copper)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (Céleste)",
+    "nameEN": "Dragon Breath (Sky)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (Magma, Or ou Rouge)",
+    "nameEN": "Dragon Breath (Gold, Magma or Red)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (Mer)",
+    "nameEN": "Dragon Breath (Sea)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (Nuage)",
+    "nameEN": "Dragon Breath (Cloud)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (Souterrain)",
+    "nameEN": "Dragon Breath (Underworld)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (Souverain)",
+    "nameEN": "Dragon Breath (Sovereign)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (Vert)",
+    "nameEN": "Dragon Breath (Green)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de dragon (ombral)",
+    "nameEN": "Dragon Breath (Umbral)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de sécheresse",
+    "nameEN": "Breath of Drought",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffle de vie",
+    "nameEN": "Breath of Life",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souffrance vengeresse",
+    "nameEN": "Retributive Pain",
+    "category": "Sorts"
+  },
+  { "nameFR": "Souhait", "nameEN": "Wish", "category": "Sorts" },
+  { "nameFR": "Soulèvement", "nameEN": "Upheaval", "category": "Sorts" },
+  {
+    "nameFR": "Source apaisante",
+    "nameEN": "Soothing Spring",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souvenir soudain",
+    "nameEN": "Sudden Recollection",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souvenirs ancestraux",
+    "nameEN": "Ancestral Memories",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Souvenirs érudits",
+    "nameEN": "Scholarly Recollection",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Sphère d'invisibilité",
+    "nameEN": "Invisibility Sphere",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Sphère d'isolement",
+    "nameEN": "Resilient Sphere",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Sphère de feu",
+    "nameEN": "Flaming Sphere",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Sphère de tonnerre lointain",
+    "nameEN": "Horizon Thunder Sphere",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Sphère du protecteur",
+    "nameEN": "Protector's Sphere",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Sphère prismatique",
+    "nameEN": "Prismatic Sphere",
+    "category": "Sorts"
+  },
+  { "nameFR": "Stabilisation", "nameEN": "Stabilize", "category": "Sorts" },
+  { "nameFR": "Stase", "nameEN": "Stasis", "category": "Sorts" },
+  { "nameFR": "Statuette", "nameEN": "Statuette", "category": "Sorts" },
+  { "nameFR": "Suggestion", "nameEN": "Suggestion", "category": "Sorts" },
+  {
+    "nameFR": "Suggestion subconsciente",
+    "nameEN": "Subconscious Suggestion",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Suivre son cours",
+    "nameEN": "Take its Course",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Supprimer l’arôme",
+    "nameEN": "Negate Aroma",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Surcharge oculaire",
+    "nameEN": "Ocular Overload",
+    "category": "Sorts"
+  },
+  { "nameFR": "Surdité", "nameEN": "Deafness", "category": "Sorts" },
+  {
+    "nameFR": "Surveillance fouineuse",
+    "nameEN": "Prying Survey",
+    "category": "Sorts"
+  },
+  { "nameFR": "Symbole", "nameEN": "Sigil", "category": "Sorts" },
+  {
+    "nameFR": "Symphonie du cœur affranchi",
+    "nameEN": "Symphony of the Unfettered Heart",
+    "category": "Sorts"
+  },
+  { "nameFR": "Synchroniser", "nameEN": "Synchronize", "category": "Sorts" },
+  { "nameFR": "Synesthésie", "nameEN": "Synesthesia", "category": "Sorts" },
+  {
+    "nameFR": "Séisme localisé",
+    "nameEN": "Localized Quake",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Série victorieuse",
+    "nameEN": "Winning Streak",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Tasse de poussière",
+    "nameEN": "Cup of Dust",
+    "category": "Sorts"
+  },
+  { "nameFR": "Tempête d'acide", "nameEN": "Acid Storm", "category": "Sorts" },
+  {
+    "nameFR": "Tempête d'armes",
+    "nameEN": "Weapon Storm",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Tempête d'éclairs",
+    "nameEN": "Lightning Storm",
+    "category": "Sorts"
+  },
+  { "nameFR": "Tempête de glace", "nameEN": "Ice Storm", "category": "Sorts" },
+  {
+    "nameFR": "Tempête de poussière",
+    "nameEN": "Dust Storm",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Tempête de pétales",
+    "nameEN": "Petal Storm",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Tempête en bouteille",
+    "nameEN": "Bottle the Storm",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Tempête vengeresse",
+    "nameEN": "Storm of Vengeance",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Tempête élémentaire",
+    "nameEN": "Elemental Tempest",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Tempêtes d'ombres",
+    "nameEN": "Tempest of Shades",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Tentacules noirs",
+    "nameEN": "Black Tentacles",
+    "category": "Sorts"
+  },
+  { "nameFR": "Tenter le sort", "nameEN": "Tempt Fate", "category": "Sorts" },
+  {
+    "nameFR": "Tenue adéquate",
+    "nameEN": "Befitting Attire",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Terrain déformé",
+    "nameEN": "Warped Terrain",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Terrain hallucinatoire",
+    "nameEN": "Hallucinatory Terrain",
+    "category": "Sorts"
+  },
+  { "nameFR": "Terreur", "nameEN": "Fear", "category": "Sorts" },
+  {
+    "nameFR": "Terreurs hypnopompiques",
+    "nameEN": "Hypnopompic Terrors",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Tissage arcanique",
+    "nameEN": "Arcane Weaving",
+    "category": "Sorts"
+  },
+  { "nameFR": "Toile d'araignée", "nameEN": "Web", "category": "Sorts" },
+  { "nameFR": "Toile d'ombre", "nameEN": "Shadow's Web", "category": "Sorts" },
+  { "nameFR": "Torrent", "nameEN": "Hydraulic Torrent", "category": "Sorts" },
+  {
+    "nameFR": "Torrent de radiance intérieur",
+    "nameEN": "Inner Radiance Torrent",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Toucher ancestral",
+    "nameEN": "Ancestral Touch",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Toucher de corruption",
+    "nameEN": "Touch of Corruption",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Toucher de corruption (Soins)",
+    "nameEN": "Touch of Corruption (Healing)",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Toucher tempêtueux",
+    "nameEN": "Tempest Touch",
+    "category": "Sorts"
+  },
+  { "nameFR": "Tourbillon", "nameEN": "Whirlwind", "category": "Sorts" },
+  {
+    "nameFR": "Tragédie fantômatique",
+    "nameEN": "Ghostly Tragedy",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Trahison élémentaire",
+    "nameEN": "Elemental Betrayal",
+    "category": "Sorts"
+  },
+  { "nameFR": "Trait animal", "nameEN": "Animal Feature", "category": "Sorts" },
+  { "nameFR": "Trait d'hiver", "nameEN": "Winter Bolt", "category": "Sorts" },
+  { "nameFR": "Trait de force", "nameEN": "Force Bolt", "category": "Sorts" },
+  {
+    "nameFR": "Transcription fantômatique",
+    "nameEN": "Ghostly Transcription",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Transe du Maître des bêtes",
+    "nameEN": "Beastmaster Trance",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Transformation du guerrier magique",
+    "nameEN": "Magic Warrior Transformation",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Transmutation de la roche et de la boue",
+    "nameEN": "Transmute Rock And Mud",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Transport télékinésique",
+    "nameEN": "Telekinetic Haul",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Transposition collective",
+    "nameEN": "Collective Transposition",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Transposition de terrain",
+    "nameEN": "Terrain Transposition",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Transposition inattendue",
+    "nameEN": "Unexpected Transposition",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Travailleur infatigable",
+    "nameEN": "Tireless Worker",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Traversée des ombres",
+    "nameEN": "Shadow Walk",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Tremblement de terre",
+    "nameEN": "Earthquake",
+    "category": "Sorts"
+  },
+  { "nameFR": "Tri rapide", "nameEN": "Quick Sort", "category": "Sorts" },
+  {
+    "nameFR": "Triple aspect",
+    "nameEN": "Threefold Aspect",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Troupeau primitif",
+    "nameEN": "Primal Herd",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Trésor fantasmatique",
+    "nameEN": "Phantasmal Treasure",
+    "category": "Sorts"
+  },
+  { "nameFR": "Tu es à moi", "nameEN": "You're Mine", "category": "Sorts" },
+  {
+    "nameFR": "Tu ne faibliras pas, tu ne prendras pas la fuite",
+    "nameEN": "Shall not Falter, Shall not Rout",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Tuteur opportun",
+    "nameEN": "Timely Tutor",
+    "category": "Sorts"
+  },
+  { "nameFR": "Télépathie", "nameEN": "Telepathy", "category": "Sorts" },
+  { "nameFR": "Téléportation", "nameEN": "Teleport", "category": "Sorts" },
+  { "nameFR": "Ténèbres", "nameEN": "Darkness", "category": "Sorts" },
+  {
+    "nameFR": "Ténèbres glaciales",
+    "nameEN": "Chilling Darkness",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Un est tout, tout est Un",
+    "nameEN": "All is One, One is All",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Un peu de chance",
+    "nameEN": "Bit of Luck",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Uni à la terre",
+    "nameEN": "One With the Land",
+    "category": "Sorts"
+  },
+  { "nameFR": "Unité", "nameEN": "Unity", "category": "Sorts" },
+  {
+    "nameFR": "Vague d'annihilation élémentaire",
+    "nameEN": "Elemental Annihilation Wave",
+    "category": "Sorts"
+  },
+  { "nameFR": "Vague porteuse", "nameEN": "Rising Surf", "category": "Sorts" },
+  {
+    "nameFR": "Vague écrasante",
+    "nameEN": "Crashing Wave",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Vapeurs nocives",
+    "nameEN": "Noxious Vapors",
+    "category": "Sorts"
+  },
+  { "nameFR": "Variole Gobeline", "nameEN": "Goblin Pox", "category": "Sorts" },
+  {
+    "nameFR": "Veille du génie",
+    "nameEN": "Genie's Veil",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Vendetta du sang",
+    "nameEN": "Blood Vendetta",
+    "category": "Sorts"
+  },
+  { "nameFR": "Ventriloquie", "nameEN": "Ventriloquism", "category": "Sorts" },
+  {
+    "nameFR": "Vents punitifs",
+    "nameEN": "Punishing Winds",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Verrou dimensionnel",
+    "nameEN": "Dimensional Lock",
+    "category": "Sorts"
+  },
+  { "nameFR": "Verrouillage", "nameEN": "Lock", "category": "Sorts" },
+  {
+    "nameFR": "Vibrations douloureuses",
+    "nameEN": "Painful Vibrations",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Vide intersidéral",
+    "nameEN": "Interstellar Void",
+    "category": "Sorts"
+  },
+  { "nameFR": "Vide intérieur", "nameEN": "Empty Inside", "category": "Sorts" },
+  {
+    "nameFR": "Vierge vampirique",
+    "nameEN": "Vampiric Maiden",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Visage du conjurateur",
+    "nameEN": "Summoner's Visage",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Visage du familier",
+    "nameEN": "Familiar's Face",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Visage terrifiant",
+    "nameEN": "Horrific Visage",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Vision animale",
+    "nameEN": "Animal Vision",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Vision dans le noir",
+    "nameEN": "Darkvision",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Vision de faiblesse",
+    "nameEN": "Vision of Weakness",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Vision des organes",
+    "nameEN": "Organsight",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Vision du chasseur",
+    "nameEN": "Hunter's Vision",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Vision du devin",
+    "nameEN": "Diviner's Sight",
+    "category": "Sorts"
+  },
+  { "nameFR": "Vision faussée", "nameEN": "False Vision", "category": "Sorts" },
+  { "nameFR": "Vision lointaine", "nameEN": "Far Sight", "category": "Sorts" },
+  { "nameFR": "Vision lucide", "nameEN": "True Seeing", "category": "Sorts" },
+  { "nameFR": "Vivifier", "nameEN": "Revival", "category": "Sorts" },
+  { "nameFR": "Voile", "nameEN": "Veil", "category": "Sorts" },
+  {
+    "nameFR": "Voile d'ombre",
+    "nameEN": "Penumbral Shroud",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Voile de confiance",
+    "nameEN": "Veil of Confidence",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Voile de flammes",
+    "nameEN": "Shroud of Flame",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Voile de nuit",
+    "nameEN": "Shroud of Night",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Voile de rêves",
+    "nameEN": "Veil of Dreams",
+    "category": "Sorts"
+  },
+  { "nameFR": "Voile spirituel", "nameEN": "Spirit Veil", "category": "Sorts" },
+  { "nameFR": "Vol", "nameEN": "Fly", "category": "Sorts" },
+  { "nameFR": "Vol d'ombre", "nameEN": "Steal Shadow", "category": "Sorts" },
+  {
+    "nameFR": "Vol de l'ouragan",
+    "nameEN": "Stormwind Flight",
+    "category": "Sorts"
+  },
+  { "nameFR": "Voler le ciel", "nameEN": "Steal the Sky", "category": "Sorts" },
+  {
+    "nameFR": "Volute de feu infernal",
+    "nameEN": "Hellfire Plume",
+    "category": "Sorts"
+  },
+  { "nameFR": "Vomir une nuée", "nameEN": "Vomit Swarm", "category": "Sorts" },
+  {
+    "nameFR": "Vortex de flammes",
+    "nameEN": "Flame Vortex",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Voyage par les arbres",
+    "nameEN": "Tree Stride",
+    "category": "Sorts"
+  },
+  { "nameFR": "Voyage venteux", "nameEN": "Wind Walk", "category": "Sorts" },
+  {
+    "nameFR": "Voyageur en transit",
+    "nameEN": "Traveler's Transit",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Vraie nature",
+    "nameEN": "Lift Nature's Caul",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Vérité fabriquée",
+    "nameEN": "Fabricated Truth",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Yeux enchanteurs",
+    "nameEN": "Entrancing Eyes",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Yeux innombrables",
+    "nameEN": "Countless Eyes",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Yeux proliférants",
+    "nameEN": "Proliferating Eyes",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Zone de vérité",
+    "nameEN": "Zone of Truth",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Zone sanctifiée",
+    "nameEN": "Sanctified Ground",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Zone élémentaire",
+    "nameEN": "Elemental Zone",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Zèle au combat",
+    "nameEN": "Zeal for Battle",
+    "category": "Sorts"
+  },
+  { "nameFR": "À trois temps", "nameEN": "Triple Time", "category": "Sorts" },
+  { "nameFR": "Âme prisonnière", "nameEN": "Bind Soul", "category": "Sorts" },
+  {
+    "nameFR": "Écailles réfléchisantes",
+    "nameEN": "Reflective Scales",
+    "category": "Sorts"
+  },
+  { "nameFR": "Échange d'esprit", "nameEN": "Mind Swap", "category": "Sorts" },
+  {
+    "nameFR": "Échanger les visages",
+    "nameEN": "Exchange Image",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Écharpes tourbillonnantes",
+    "nameEN": "Whirling Scarves",
+    "category": "Sorts"
+  },
+  { "nameFR": "Éclair", "nameEN": "Lightning Bolt", "category": "Sorts" },
+  {
+    "nameFR": "Éclair éblouissant",
+    "nameEN": "Dazzling Flash",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Éclaireur peint",
+    "nameEN": "Painted Scout",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Éclairs multiples",
+    "nameEN": "Chain Lightning",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Éclipse soudaine",
+    "nameEN": "Eclipse Burst",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Éclosion verdoyante",
+    "nameEN": "Verdant Sprout",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Édit diabolique",
+    "nameEN": "Diabolic Edict",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Égide du gardien",
+    "nameEN": "Guardian's Aegis",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Égide énergétique",
+    "nameEN": "Energy Aegis",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Émanations inflammables",
+    "nameEN": "Flammable Fumes",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Émousser la Lame finale",
+    "nameEN": "Blunt the Final Blade",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Épidémie spirituelle",
+    "nameEN": "Spiritual Epidemic",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Épines florissantes",
+    "nameEN": "Vibrant Thorns",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Éradication de la non-mort",
+    "nameEN": "Eradicate Undeath",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Éruption de corail",
+    "nameEN": "Coral Eruption",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Établir un nexus",
+    "nameEN": "Establish Nexus",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Établir une protection",
+    "nameEN": "Establish Ward",
+    "category": "Sorts"
+  },
+  { "nameFR": "Éteindre", "nameEN": "Quench", "category": "Sorts" },
+  {
+    "nameFR": "Étendre le boost",
+    "nameEN": "Extend Boost",
+    "category": "Sorts"
+  },
+  { "nameFR": "Étoile guide", "nameEN": "Guiding Star", "category": "Sorts" },
+  { "nameFR": "Étoile tirée", "nameEN": "Shooting Star", "category": "Sorts" },
+  {
+    "nameFR": "Étoile zénithale",
+    "nameEN": "Zenith Star",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Étrange anatomie",
+    "nameEN": "Unusual Anatomy",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Étreinte d'Achaékek",
+    "nameEN": "Achaekek's Clutch",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Étreinte de la fosse",
+    "nameEN": "Embrace the Pit",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Étreinte de la tombe",
+    "nameEN": "Grasping Grave",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Étude du maître savant",
+    "nameEN": "Loremaster's Etude",
+    "category": "Sorts"
+  },
+  { "nameFR": "Éveil d'objet", "nameEN": "Awaken Object", "category": "Sorts" },
+  {
+    "nameFR": "Éveil d’animal",
+    "nameEN": "Awaken Animal",
+    "category": "Sorts"
+  },
+  {
+    "nameFR": "Éveiller un portail",
+    "nameEN": "Awaken Portal",
+    "category": "Sorts"
+  },
+  { "nameFR": "Œil indiscret", "nameEN": "Prying Eye", "category": "Sorts" },
+  { "nameFR": "Œil vigilant", "nameEN": "Vigilant Eye", "category": "Sorts" }
+]

@@ -1,12 +1,16 @@
 export const state = () => ({
-    spells: []
+    spells: [],
+    // frenchCompat: false
 })
 
 
 export const mutations = {
     STORE_SPELL(state, spells) {
         state.spells = spells
-    }
+    },
+    // UPDATE_FRENCH_COMPAT(state, val) {
+    //     state.frenchCompat = val
+    // }
 }
 
 export const getters = {
