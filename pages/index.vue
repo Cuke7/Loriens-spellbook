@@ -46,10 +46,15 @@
         </v-col>
         <v-col cols="6">
           <v-row align="center" justify="end">
-            <v-col cols="auto">
+            <v-col cols="auto" class="pr-0">
               <v-chip outlined color="primary" class="primary--text">
                 {{ selectedSpells.length }} spells selected
               </v-chip>
+            </v-col>
+            <v-col cols="auto" class="pl-0">
+              <v-btn icon color="primary" @click="selectedSpells = []">
+                <v-icon>mdi-cancel</v-icon>
+              </v-btn>
             </v-col>
             <v-col cols="auto">
               <v-btn color="primary" @click="generatePDF()">
@@ -92,7 +97,7 @@ export default {
     selectedSpells: [],
     rangeLevel: [4, 8],
     search: "",
-    traditions: ["all", "arcane", "divine", "occult", "primal"],
+    traditions: ["arcane", "divine", "occult", "primal", "other"],
     selectedTradition: "arcane",
     headers: [
       { text: "Spell name", value: "name", align: "start" },
@@ -121,22 +126,21 @@ export default {
 
     filteredSpells() {
       let allSpells = Object.values(this.spells2);
-      if (this.selectedTradition != "all") {
+      if (this.selectedTradition != "other") {
         allSpells = allSpells.filter((spell) =>
           spell.data.traditions.value.includes(this.selectedTradition)
         );
+        return allSpells;
       }
-      return allSpells;
+      return allSpells.filter(
+        (spell) => spell.data.traditions.value.length == 0
+      );
     },
   },
 
   methods: {
     async generatePDF() {
-      // const ip = await this.$axios.$post(
-      //   "https://pf2-database.herokuapp.com/pdf",
-      //   this.selectedSpells
-      // );
-      // console.log(ip);
+      this.$store.commit("STORE_SPELL", this.selectedSpells);
     },
   },
 };
