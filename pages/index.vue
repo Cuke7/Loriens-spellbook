@@ -100,7 +100,7 @@
 
 <script>
 import spells from "~/static/data/spells.json";
-import spellDictionary from "~/static/data/spellDictionary.json";
+// import spellDictionary from "~/static/data/spellDictionary.json";
 
 export default {
   data: () => ({
