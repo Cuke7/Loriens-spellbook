@@ -57,8 +57,12 @@
               </v-btn>
             </v-col>
             <v-col cols="auto">
-              <v-btn color="primary" @click="generatePDF()">
-                Export to PDF
+              <v-btn
+                color="primary"
+                @click="generatePDF()"
+                :disabled="!selectedSpells.length > 0"
+              >
+                Generate spellbook
               </v-btn>
             </v-col>
           </v-row>
@@ -141,6 +145,7 @@ export default {
   methods: {
     async generatePDF() {
       this.$store.commit("STORE_SPELL", this.selectedSpells);
+      this.$router.push("/spellbook");
     },
   },
 };
