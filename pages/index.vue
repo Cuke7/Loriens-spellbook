@@ -62,7 +62,7 @@
                 @click="generatePDF()"
                 :disabled="!selectedSpells.length > 0"
               >
-                Generate spellbook
+                Spellbook
               </v-btn>
             </v-col>
           </v-row>
